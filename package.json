@@ -1,0 +1,57 @@
+{
+  "name": "applitoolshackathon2020",
+  "version": "1.0.0",
+  "description": "Submission for the Applitools Ultrafast Cross Browser Testing Hackathon",
+  "scripts": {
+    "lint": "eslint \"./**/*.{js,ts,json}\"",
+    "prettier": "prettier -c \"./**/*.{js,ts,json}\"",
+    "traditional:v1": "cross-env APP_VERSION=V1 wdio traditional.conf.js --suite traditionalV1",
+    "traditional:v2": "cross-env APP_VERSION=V2 wdio traditional.conf.js --suite traditionalV2",
+    "modern:v1": "cross-env APP_VERSION=V1 wdio modern.conf.js --suite modernV1",
+    "modern:v2": "cross-env APP_VERSION=V2 wdio modern.conf.js --suite modernV2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ablok/ApplitoolsHackathon2020.git"
+  },
+  "author": "Arjan Blok",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ablok/ApplitoolsHackathon2020/issues"
+  },
+  "homepage": "https://github.com/ablok/ApplitoolsHackathon2020#readme",
+  "devDependencies": {
+    "@applitools/eyes-selenium": "^4.39.2",
+    "@applitools/eyes-webdriverio": "^5.14.2",
+    "@sitespeed.io/edgedriver": "^83.0.478-44",
+    "@types/chai": "^4.2.5",
+    "@types/fs-extra": "^9.0.1",
+    "@types/mocha": "^5.2.7",
+    "@types/sanitize-filename": "^1.6.3",
+    "@types/uuid": "^3.4.6",
+    "@typescript-eslint/eslint-plugin": "^2.7.0",
+    "@typescript-eslint/parser": "^2.7.0",
+    "@wdio/cli": "^5.16.6",
+    "@wdio/local-runner": "^5.16.6",
+    "@wdio/mocha-framework": "^5.16.5",
+    "@wdio/selenium-standalone-service": "^5.16.10",
+    "@wdio/spec-reporter": "^5.16.5",
+    "@wdio/sync": "^5.16.5",
+    "chai": "^4.2.0",
+    "cross-env": "^6.0.3",
+    "eslint": "^6.6.0",
+    "eslint-config-prettier": "^6.5.0",
+    "eslint-plugin-prettier": "^3.1.1",
+    "fs-extra": "^9.0.1",
+    "odiff": "^1.4.1",
+    "path": "^0.12.7",
+    "prettier": "^1.19.1",
+    "recursive-diff": "^1.0.7",
+    "sanitize-filename": "^1.6.3",
+    "selenium-webdriver": "^3.6.0",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.7.2",
+    "uuid": "^3.3.3",
+    "webdriverio": "^5.16.6"
+  }
+}

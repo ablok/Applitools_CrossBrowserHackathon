@@ -1,0 +1,1421 @@
+[
+  {
+    "#logo img": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 15,
+          "y": 16.5
+        },
+        "size": {
+          "width": 150,
+          "height": 35
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(0, 77, 218)",
+          "color": "rgb(0, 77, 218)",
+          "font": "14px / 21px Roboto, Arial, Helvetica, sans-serif"
+        },
+        "image": "https://demo.applitools.com/grid/img/logo.svg"
+      }
+    ]
+  },
+  {
+    ".main-menu": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 306.25,
+          "y": 0
+        },
+        "size": {
+          "width": 573,
+          "height": 68
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "14px / 21px Roboto, Arial, Helvetica, sans-serif"
+        }
+      }
+    ]
+  },
+  {
+    "//div[@class='hamburger-box']/ancestor::a": [
+      {
+        "visibility": false,
+        "location": {
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "width": 26,
+          "height": 32
+        },
+        "css": {
+          "display": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(0, 77, 218)",
+          "color": "rgb(0, 77, 218)",
+          "font": "14px / 21px Roboto, Arial, Helvetica, sans-serif"
+        }
+      }
+    ]
+  },
+  {
+    ".custom-search-input": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 306.25,
+          "y": 68
+        },
+        "size": {
+          "width": 573,
+          "height": 40
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgb(242, 242, 242)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "14px / 21px Roboto, Arial, Helvetica, sans-serif"
+        }
+      }
+    ]
+  },
+  {
+    ".btn_search_mob": [
+      {
+        "visibility": false,
+        "location": {
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "width": 0,
+          "height": 0
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(17, 17, 17)",
+          "color": "rgb(17, 17, 17)",
+          "font": "14px / 60px Roboto, Arial, Helvetica, sans-serif"
+        }
+      }
+    ]
+  },
+  {
+    ".access_link": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 1052,
+          "y": 68
+        },
+        "size": {
+          "width": 26,
+          "height": 60
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(17, 17, 17)",
+          "color": "rgb(17, 17, 17)",
+          "font": "14px / 60px Roboto, Arial, Helvetica, sans-serif"
+        }
+      }
+    ]
+  },
+  {
+    ".wishlist": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 1098,
+          "y": 68
+        },
+        "size": {
+          "width": 26,
+          "height": 60
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(17, 17, 17)",
+          "color": "rgb(17, 17, 17)",
+          "font": "14px / 60px Roboto, Arial, Helvetica, sans-serif"
+        }
+      }
+    ]
+  },
+  {
+    ".cart_bt": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 1144,
+          "y": 68
+        },
+        "size": {
+          "width": 26,
+          "height": 60
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(17, 17, 17)",
+          "color": "rgb(17, 17, 17)",
+          "font": "14px / 60px Roboto, Arial, Helvetica, sans-serif"
+        }
+      }
+    ]
+  },
+  {
+    ".cart_bt strong": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 1157,
+          "y": 102
+        },
+        "size": {
+          "width": 16,
+          "height": 16
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgb(8, 52, 135)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(255, 255, 255)",
+          "color": "rgb(255, 255, 255)",
+          "font": "700 10px / 17px Roboto, Arial, Helvetica, sans-serif"
+        },
+        "text": "2"
+      }
+    ]
+  },
+  {
+    ".top_banner": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 311.25,
+          "y": 159
+        },
+        "size": {
+          "width": 859,
+          "height": 350
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "url(\"https://demo.applitools.com/grid/img/bg_cat_shoes.jpg\")",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "14px / 21px Roboto, Arial, Helvetica, sans-serif"
+        }
+      }
+    ]
+  },
+  {
+    "#filter_col": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 15,
+          "y": 159
+        },
+        "size": {
+          "width": 266,
+          "height": 878
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "14px / 21px Roboto, Arial, Helvetica, sans-serif"
+        }
+      }
+    ]
+  },
+  {
+    ".sort_select": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 326.25,
+          "y": 544
+        },
+        "size": {
+          "width": 180,
+          "height": 25
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "14px / 25px Roboto, Arial, Helvetica, sans-serif"
+        }
+      }
+    ]
+  },
+  {
+    ".open_filters span": [
+      {
+        "visibility": false,
+        "location": {
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "width": 0,
+          "height": 0
+        },
+        "css": {
+          "display": "inline-block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "14px / 25px Roboto, Arial, Helvetica, sans-serif"
+        },
+        "text": "Filters"
+      }
+    ]
+  },
+  {
+    "#ti-filter": [
+      {
+        "visibility": false,
+        "location": {
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "width": 0,
+          "height": 0
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "16px / 16px themify"
+        }
+      }
+    ]
+  },
+  {
+    ".ti-view-grid": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 1114.53125,
+          "y": 549
+        },
+        "size": {
+          "width": 16,
+          "height": 16
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "16px / 16px themify"
+        }
+      }
+    ]
+  },
+  {
+    ".ti-view-list": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 1139,
+          "y": 549
+        },
+        "size": {
+          "width": 16,
+          "height": 16
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "16px / 16px themify"
+        }
+      }
+    ]
+  },
+  {
+    "#product_grid": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 306.25,
+          "y": 602
+        },
+        "size": {
+          "width": 869,
+          "height": 1100
+        },
+        "css": {
+          "display": "flex",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "14px / 21px Roboto, Arial, Helvetica, sans-serif"
+        }
+      }
+    ]
+  },
+  {
+    ".grid_item": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 311.25,
+          "y": 602
+        },
+        "size": {
+          "width": 280,
+          "height": 342
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "14px / 21px Roboto, Arial, Helvetica, sans-serif"
+        }
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 600.828125,
+          "y": 602
+        },
+        "size": {
+          "width": 280,
+          "height": 342
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "14px / 21px Roboto, Arial, Helvetica, sans-serif"
+        }
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 890.40625,
+          "y": 602
+        },
+        "size": {
+          "width": 280,
+          "height": 342
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "14px / 21px Roboto, Arial, Helvetica, sans-serif"
+        }
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 311.25,
+          "y": 968.578125
+        },
+        "size": {
+          "width": 280,
+          "height": 342
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "14px / 21px Roboto, Arial, Helvetica, sans-serif"
+        }
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 600.828125,
+          "y": 968.578125
+        },
+        "size": {
+          "width": 280,
+          "height": 342
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "14px / 21px Roboto, Arial, Helvetica, sans-serif"
+        }
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 890.40625,
+          "y": 968.578125
+        },
+        "size": {
+          "width": 280,
+          "height": 342
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "14px / 21px Roboto, Arial, Helvetica, sans-serif"
+        }
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 311.25,
+          "y": 1335.15625
+        },
+        "size": {
+          "width": 280,
+          "height": 342
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "14px / 21px Roboto, Arial, Helvetica, sans-serif"
+        }
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 600.828125,
+          "y": 1335.15625
+        },
+        "size": {
+          "width": 280,
+          "height": 342
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "14px / 21px Roboto, Arial, Helvetica, sans-serif"
+        }
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 890.40625,
+          "y": 1335.15625
+        },
+        "size": {
+          "width": 280,
+          "height": 342
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "14px / 21px Roboto, Arial, Helvetica, sans-serif"
+        }
+      }
+    ]
+  },
+  {
+    ".grid_item img": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 311.25,
+          "y": 602
+        },
+        "size": {
+          "width": 280,
+          "height": 280
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(0, 77, 218)",
+          "color": "rgb(0, 77, 218)",
+          "font": "14px / 21px Roboto, Arial, Helvetica, sans-serif"
+        },
+        "image": "https://demo.applitools.com/grid/img/products/shoes/1.jpg"
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 600.828125,
+          "y": 602
+        },
+        "size": {
+          "width": 280,
+          "height": 280
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(0, 77, 218)",
+          "color": "rgb(0, 77, 218)",
+          "font": "14px / 21px Roboto, Arial, Helvetica, sans-serif"
+        },
+        "image": "https://demo.applitools.com/grid/img/products/shoes/3.jpg"
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 890.40625,
+          "y": 602
+        },
+        "size": {
+          "width": 280,
+          "height": 280
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(0, 77, 218)",
+          "color": "rgb(0, 77, 218)",
+          "font": "14px / 21px Roboto, Arial, Helvetica, sans-serif"
+        },
+        "image": "https://demo.applitools.com/grid/img/products/shoes/4.jpg"
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 311.25,
+          "y": 968.578125
+        },
+        "size": {
+          "width": 280,
+          "height": 280
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(0, 77, 218)",
+          "color": "rgb(0, 77, 218)",
+          "font": "14px / 21px Roboto, Arial, Helvetica, sans-serif"
+        },
+        "image": "https://demo.applitools.com/grid/img/products/shoes/5.jpg"
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 600.828125,
+          "y": 968.578125
+        },
+        "size": {
+          "width": 280,
+          "height": 280
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(0, 77, 218)",
+          "color": "rgb(0, 77, 218)",
+          "font": "14px / 21px Roboto, Arial, Helvetica, sans-serif"
+        },
+        "image": "https://demo.applitools.com/grid/img/products/shoes/6.jpg"
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 890.40625,
+          "y": 968.578125
+        },
+        "size": {
+          "width": 280,
+          "height": 280
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(0, 77, 218)",
+          "color": "rgb(0, 77, 218)",
+          "font": "14px / 21px Roboto, Arial, Helvetica, sans-serif"
+        },
+        "image": "https://demo.applitools.com/grid/img/products/shoes/7.jpg"
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 311.25,
+          "y": 1335.15625
+        },
+        "size": {
+          "width": 280,
+          "height": 280
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(0, 77, 218)",
+          "color": "rgb(0, 77, 218)",
+          "font": "14px / 21px Roboto, Arial, Helvetica, sans-serif"
+        },
+        "image": "https://demo.applitools.com/grid/img/products/shoes/8.jpg"
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 600.828125,
+          "y": 1335.15625
+        },
+        "size": {
+          "width": 280,
+          "height": 280
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(0, 77, 218)",
+          "color": "rgb(0, 77, 218)",
+          "font": "14px / 21px Roboto, Arial, Helvetica, sans-serif"
+        },
+        "image": "https://demo.applitools.com/grid/img/products/shoes/2.jpg"
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 890.40625,
+          "y": 1335.15625
+        },
+        "size": {
+          "width": 280,
+          "height": 280
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(0, 77, 218)",
+          "color": "rgb(0, 77, 218)",
+          "font": "14px / 21px Roboto, Arial, Helvetica, sans-serif"
+        },
+        "image": "https://demo.applitools.com/grid/img/products/shoes/9.jpg"
+      }
+    ]
+  },
+  {
+    ".grid_item .ti-heart": [
+      {
+        "visibility": false,
+        "location": {
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "width": 0,
+          "height": 0
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "18px / 18px themify"
+        }
+      },
+      {
+        "visibility": false,
+        "location": {
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "width": 0,
+          "height": 0
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "18px / 18px themify"
+        }
+      },
+      {
+        "visibility": false,
+        "location": {
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "width": 0,
+          "height": 0
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "18px / 18px themify"
+        }
+      },
+      {
+        "visibility": false,
+        "location": {
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "width": 0,
+          "height": 0
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "18px / 18px themify"
+        }
+      },
+      {
+        "visibility": false,
+        "location": {
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "width": 0,
+          "height": 0
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "18px / 18px themify"
+        }
+      },
+      {
+        "visibility": false,
+        "location": {
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "width": 0,
+          "height": 0
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "18px / 18px themify"
+        }
+      },
+      {
+        "visibility": false,
+        "location": {
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "width": 0,
+          "height": 0
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "18px / 18px themify"
+        }
+      },
+      {
+        "visibility": false,
+        "location": {
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "width": 0,
+          "height": 0
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "18px / 18px themify"
+        }
+      },
+      {
+        "visibility": false,
+        "location": {
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "width": 0,
+          "height": 0
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "18px / 18px themify"
+        }
+      }
+    ]
+  },
+  {
+    ".grid_item .ti-control-shuffle": [
+      {
+        "visibility": false,
+        "location": {
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "width": 0,
+          "height": 0
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "18px / 18px themify"
+        }
+      },
+      {
+        "visibility": false,
+        "location": {
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "width": 0,
+          "height": 0
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "18px / 18px themify"
+        }
+      },
+      {
+        "visibility": false,
+        "location": {
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "width": 0,
+          "height": 0
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "18px / 18px themify"
+        }
+      },
+      {
+        "visibility": false,
+        "location": {
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "width": 0,
+          "height": 0
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "18px / 18px themify"
+        }
+      },
+      {
+        "visibility": false,
+        "location": {
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "width": 0,
+          "height": 0
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "18px / 18px themify"
+        }
+      },
+      {
+        "visibility": false,
+        "location": {
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "width": 0,
+          "height": 0
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "18px / 18px themify"
+        }
+      },
+      {
+        "visibility": false,
+        "location": {
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "width": 0,
+          "height": 0
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "18px / 18px themify"
+        }
+      },
+      {
+        "visibility": false,
+        "location": {
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "width": 0,
+          "height": 0
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "18px / 18px themify"
+        }
+      },
+      {
+        "visibility": false,
+        "location": {
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "width": 0,
+          "height": 0
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "18px / 18px themify"
+        }
+      }
+    ]
+  },
+  {
+    ".grid_item .ti-shopping-cart": [
+      {
+        "visibility": false,
+        "location": {
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "width": 0,
+          "height": 0
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "18px / 18px themify"
+        }
+      },
+      {
+        "visibility": false,
+        "location": {
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "width": 0,
+          "height": 0
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "18px / 18px themify"
+        }
+      },
+      {
+        "visibility": false,
+        "location": {
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "width": 0,
+          "height": 0
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "18px / 18px themify"
+        }
+      },
+      {
+        "visibility": false,
+        "location": {
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "width": 0,
+          "height": 0
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "18px / 18px themify"
+        }
+      },
+      {
+        "visibility": false,
+        "location": {
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "width": 0,
+          "height": 0
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "18px / 18px themify"
+        }
+      },
+      {
+        "visibility": false,
+        "location": {
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "width": 0,
+          "height": 0
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "18px / 18px themify"
+        }
+      },
+      {
+        "visibility": false,
+        "location": {
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "width": 0,
+          "height": 0
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "18px / 18px themify"
+        }
+      },
+      {
+        "visibility": false,
+        "location": {
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "width": 0,
+          "height": 0
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "18px / 18px themify"
+        }
+      },
+      {
+        "visibility": false,
+        "location": {
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "width": 0,
+          "height": 0
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "18px / 18px themify"
+        }
+      }
+    ]
+  },
+  {
+    "//h3[text()='Quick Links']": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 15,
+          "y": 1791.734375
+        },
+        "size": {
+          "width": 266,
+          "height": 16
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(255, 255, 255)",
+          "color": "rgb(255, 255, 255)",
+          "font": "500 14px / 16.8px Roboto, Arial, Helvetica, sans-serif"
+        },
+        "text": "Quick Links"
+      }
+    ]
+  },
+  {
+    "#collapse_1": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 15,
+          "y": 1822.734375
+        },
+        "size": {
+          "width": 266,
+          "height": 142
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "14px / 21px Roboto, Arial, Helvetica, sans-serif"
+        }
+      }
+    ]
+  },
+  {
+    "//h3[text()='Contacts']": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 311.25,
+          "y": 1791.734375
+        },
+        "size": {
+          "width": 266,
+          "height": 16
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(255, 255, 255)",
+          "color": "rgb(255, 255, 255)",
+          "font": "500 14px / 16.8px Roboto, Arial, Helvetica, sans-serif"
+        },
+        "text": "Contacts"
+      }
+    ]
+  },
+  {
+    "#collapse_3": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 311.25,
+          "y": 1822.734375
+        },
+        "size": {
+          "width": 266,
+          "height": 78
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "14px / 21px Roboto, Arial, Helvetica, sans-serif"
+        }
+      }
+    ]
+  },
+  {
+    "//h3[text()='Keep in touch']": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 607.5,
+          "y": 1791.734375
+        },
+        "size": {
+          "width": 266,
+          "height": 16
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(255, 255, 255)",
+          "color": "rgb(255, 255, 255)",
+          "font": "500 14px / 16.8px Roboto, Arial, Helvetica, sans-serif"
+        },
+        "text": "Keep in touch"
+      }
+    ]
+  },
+  {
+    "#collapse_4": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 607.5,
+          "y": 1822.734375
+        },
+        "size": {
+          "width": 266,
+          "height": 40
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "14px / 21px Roboto, Arial, Helvetica, sans-serif"
+        }
+      }
+    ]
+  }
+]

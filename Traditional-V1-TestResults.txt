@@ -1,0 +1,504 @@
+Task: 2, Test Name: Shopping Experience Test, Locator: .grid_item, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: #logo img, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .main-menu, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: //div[@class='hamburger-box']/ancestor::a, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .custom-search-input, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .btn_search_mob, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .access_link, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .wishlist, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .cart_bt, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .cart_bt strong, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: #shoe_img, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .prod_info .icon-star, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .prod_info em, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .prod_info p small, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .prod_info p, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: #quantity_1, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: #logo img, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .custom-select-form .list, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .main-menu, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .custom-select-form li, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: //div[@class='hamburger-box']/ancestor::a, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .btn_add_to_cart a, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .custom-search-input, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: #new_price, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .btn_search_mob, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: #old_price, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .access_link, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: #discount, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: //h3[text()='Quick Links'], Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: #collapse_1, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: //h3[text()='Contacts'], Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .wishlist, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: #collapse_3, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .cart_bt, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: //h3[text()='Keep in touch'], Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: #collapse_4, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .cart_bt strong, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: #shoe_img, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .prod_info .icon-star, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .prod_info em, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .prod_info p small, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .prod_info p, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: #quantity_1, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .custom-select-form .list, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .custom-select-form li, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .btn_add_to_cart a, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: #new_price, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: #old_price, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: #discount, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: //h3[text()='Quick Links'], Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: #collapse_1, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: //h3[text()='Contacts'], Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: #collapse_3, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: //h3[text()='Keep in touch'], Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: #collapse_4, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Open Size Options, Locator: .custom-select-form li, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Open Size Options, Locator: .custom-select-form li, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Change Quantity +button, Locator: #quantity_1, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Change Quantity +button, Locator: #quantity_1, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Change Quantity -button, Locator: #quantity_1, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Change Quantity -button, Locator: #quantity_1, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: #logo img, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .main-menu, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: //div[@class='hamburger-box']/ancestor::a, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .custom-search-input, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .btn_search_mob, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .access_link, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .wishlist, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .cart_bt, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .cart_bt strong, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .top_banner, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: #filter_col, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .sort_select, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .open_filters span, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: #ti-filter, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .ti-view-grid, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .ti-view-list, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: #product_grid, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .grid_item, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .grid_item img, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .grid_item .ti-heart, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .grid_item .ti-control-shuffle, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .grid_item .ti-shopping-cart, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: //h3[text()='Quick Links'], Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: #logo img, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: #collapse_1, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .main-menu, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: //h3[text()='Contacts'], Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: #collapse_3, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: //h3[text()='Keep in touch'], Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: #collapse_4, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: //div[@class='hamburger-box']/ancestor::a, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .custom-search-input, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .btn_search_mob, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .access_link, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .wishlist, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .cart_bt, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .cart_bt strong, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .top_banner, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: #filter_col, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .sort_select, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .open_filters span, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: #ti-filter, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .ti-view-grid, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .ti-view-list, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: #product_grid, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .grid_item, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .grid_item img, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .grid_item .ti-heart, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .grid_item .ti-control-shuffle, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .grid_item .ti-shopping-cart, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: //h3[text()='Quick Links'], Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: #collapse_1, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: //h3[text()='Contacts'], Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: #collapse_3, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: //h3[text()='Keep in touch'], Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: #collapse_4, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Open Main Menu, Locator: .main-menu, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Open Main Menu, Locator: .main-menu, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Open Filters Sidebar, Locator: #filter_col, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Open Filters Sidebar, Locator: #filter_col, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Hover grid item, Locator: .grid_item, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Hover grid item, Locator: .grid_item .ti-shopping-cart, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Hover grid item, Locator: .grid_item .ti-control-shuffle, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Hover grid item, Locator: .grid_item .ti-heart, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Hover grid item, Locator: .grid_item, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Hover grid item, Locator: .grid_item img, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Hover grid item, Locator: .grid_item .ti-shopping-cart, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Hover grid item, Locator: .grid_item .ti-control-shuffle, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Hover grid item, Locator: .grid_item .ti-heart, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Hover grid item, Locator: .grid_item img, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Open Footer Categories, Locator: //h3[text()='Contacts'], Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Open Footer Categories, Locator: #collapse_3, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Open Footer Categories, Locator: //h3[text()='Keep in touch'], Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Open Footer Categories, Locator: #collapse_4, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Open Footer Categories, Locator: //h3[text()='Quick Links'], Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Open Footer Categories, Locator: #collapse_1, Browser: chrome, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Open Footer Categories, Locator: //h3[text()='Contacts'], Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Open Footer Categories, Locator: #collapse_3, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Open Footer Categories, Locator: //h3[text()='Keep in touch'], Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Open Footer Categories, Locator: #collapse_4, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Open Footer Categories, Locator: //h3[text()='Quick Links'], Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Open Footer Categories, Locator: #collapse_1, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Shopping Experience Test, Locator: .grid_item, Browser: chrome, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: #logo img, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .main-menu, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: //div[@class='hamburger-box']/ancestor::a, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .custom-search-input, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .btn_search_mob, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .access_link, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .wishlist, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .cart_bt, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .cart_bt strong, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: #shoe_img, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .prod_info .icon-star, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .prod_info em, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .prod_info p small, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .prod_info p, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: #quantity_1, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .custom-select-form .list, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .custom-select-form li, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .btn_add_to_cart a, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: #new_price, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: #old_price, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: #discount, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: //h3[text()='Quick Links'], Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: #collapse_1, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: //h3[text()='Contacts'], Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: #collapse_3, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: //h3[text()='Keep in touch'], Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: #collapse_4, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Open Size Options, Locator: .custom-select-form li, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Change Quantity +button, Locator: #quantity_1, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Change Quantity -button, Locator: #quantity_1, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 2, Test Name: Shopping Experience Test, Locator: .grid_item, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: #logo img, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .main-menu, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: //div[@class='hamburger-box']/ancestor::a, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .custom-search-input, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .btn_search_mob, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .access_link, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .wishlist, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .cart_bt, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .cart_bt strong, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .top_banner, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: #filter_col, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .sort_select, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .open_filters span, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: #ti-filter, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .ti-view-grid, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .ti-view-list, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: #product_grid, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .grid_item, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .grid_item img, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .grid_item .ti-heart, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .grid_item .ti-control-shuffle, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .grid_item .ti-shopping-cart, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: //h3[text()='Quick Links'], Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: #collapse_1, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: //h3[text()='Contacts'], Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: #collapse_3, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: //h3[text()='Keep in touch'], Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: #collapse_4, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Open Main Menu, Locator: .main-menu, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Open Filters Sidebar, Locator: #filter_col, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Hover grid item, Locator: .grid_item, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Hover grid item, Locator: .grid_item .ti-shopping-cart, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Hover grid item, Locator: .grid_item .ti-control-shuffle, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Hover grid item, Locator: .grid_item .ti-heart, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Hover grid item, Locator: .grid_item img, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Open Footer Categories, Locator: //h3[text()='Contacts'], Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Open Footer Categories, Locator: #collapse_3, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Open Footer Categories, Locator: //h3[text()='Keep in touch'], Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Open Footer Categories, Locator: #collapse_4, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Open Footer Categories, Locator: //h3[text()='Quick Links'], Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 1, Test Name: Open Footer Categories, Locator: #collapse_1, Browser: chrome, Viewport: 500 x 700, Device: Mobile, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: #logo img, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .main-menu, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: //div[@class='hamburger-box']/ancestor::a, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .custom-search-input, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .btn_search_mob, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .access_link, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .wishlist, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .cart_bt, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .cart_bt strong, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: #shoe_img, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .prod_info .icon-star, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .prod_info em, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .prod_info p small, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .prod_info p, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: #quantity_1, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .custom-select-form .list, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .custom-select-form li, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .btn_add_to_cart a, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: #new_price, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: #old_price, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: #discount, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: //h3[text()='Quick Links'], Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: #collapse_1, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: //h3[text()='Contacts'], Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: #collapse_3, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: //h3[text()='Keep in touch'], Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Shopping Experience Test, Locator: .grid_item, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: #collapse_4, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Open Size Options, Locator: .custom-select-form li, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: #logo img, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .main-menu, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: //div[@class='hamburger-box']/ancestor::a, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .custom-search-input, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .btn_search_mob, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .access_link, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .wishlist, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .cart_bt, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .cart_bt strong, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .top_banner, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: #filter_col, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .sort_select, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .open_filters span, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: #ti-filter, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .ti-view-grid, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .ti-view-list, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: #product_grid, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .grid_item, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .grid_item img, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .grid_item .ti-heart, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .grid_item .ti-control-shuffle, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .grid_item .ti-shopping-cart, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: //h3[text()='Quick Links'], Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: #collapse_1, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: //h3[text()='Contacts'], Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: #collapse_3, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: //h3[text()='Keep in touch'], Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: #collapse_4, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Change Quantity +button, Locator: #quantity_1, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Open Main Menu, Locator: .main-menu, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Change Quantity -button, Locator: #quantity_1, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Open Filters Sidebar, Locator: #filter_col, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Hover grid item, Locator: .grid_item, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Hover grid item, Locator: .grid_item .ti-shopping-cart, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Hover grid item, Locator: .grid_item .ti-control-shuffle, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Hover grid item, Locator: .grid_item .ti-heart, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Hover grid item, Locator: .grid_item img, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: #logo img, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .main-menu, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: //div[@class='hamburger-box']/ancestor::a, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .custom-search-input, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .btn_search_mob, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .access_link, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .wishlist, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .cart_bt, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .cart_bt strong, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .top_banner, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: #filter_col, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .sort_select, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .open_filters span, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: #ti-filter, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .ti-view-grid, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .ti-view-list, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: #product_grid, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .grid_item, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .grid_item img, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .grid_item .ti-heart, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .grid_item .ti-control-shuffle, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .grid_item .ti-shopping-cart, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: //h3[text()='Quick Links'], Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: #collapse_1, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: //h3[text()='Contacts'], Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: #collapse_3, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: //h3[text()='Keep in touch'], Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: #collapse_4, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: #logo img, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .main-menu, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: //div[@class='hamburger-box']/ancestor::a, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .custom-search-input, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .btn_search_mob, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .access_link, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .wishlist, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .cart_bt, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .cart_bt strong, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: #shoe_img, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .prod_info .icon-star, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .prod_info em, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .prod_info p small, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .prod_info p, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: #quantity_1, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .custom-select-form .list, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .custom-select-form li, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .btn_add_to_cart a, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: #new_price, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Open Main Menu, Locator: .main-menu, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: #old_price, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: #discount, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: //h3[text()='Quick Links'], Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: #collapse_1, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: //h3[text()='Contacts'], Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: #collapse_3, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: //h3[text()='Keep in touch'], Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: #collapse_4, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Open Filters Sidebar, Locator: #filter_col, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Open Footer Categories, Locator: //h3[text()='Contacts'], Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Open Footer Categories, Locator: #collapse_3, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Open Footer Categories, Locator: //h3[text()='Keep in touch'], Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Open Footer Categories, Locator: #collapse_4, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Open Footer Categories, Locator: //h3[text()='Quick Links'], Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Open Footer Categories, Locator: #collapse_1, Browser: firefox, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Open Size Options, Locator: .custom-select-form li, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Change Quantity +button, Locator: #quantity_1, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Change Quantity -button, Locator: #quantity_1, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Shopping Experience Test, Locator: .grid_item, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Hover grid item, Locator: .grid_item, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Hover grid item, Locator: .grid_item .ti-shopping-cart, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Hover grid item, Locator: .grid_item .ti-control-shuffle, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Hover grid item, Locator: .grid_item .ti-heart, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Hover grid item, Locator: .grid_item img, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: #logo img, Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .main-menu, Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: //div[@class='hamburger-box']/ancestor::a, Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .custom-search-input, Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .btn_search_mob, Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .access_link, Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .wishlist, Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .cart_bt, Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .cart_bt strong, Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .top_banner, Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: #filter_col, Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .sort_select, Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .open_filters span, Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: #ti-filter, Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .ti-view-grid, Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .ti-view-list, Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: #product_grid, Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .grid_item, Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .grid_item img, Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .grid_item .ti-heart, Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .grid_item .ti-control-shuffle, Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .grid_item .ti-shopping-cart, Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: //h3[text()='Quick Links'], Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: #collapse_1, Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: //h3[text()='Contacts'], Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: #collapse_3, Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: //h3[text()='Keep in touch'], Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: #collapse_4, Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Open Main Menu, Locator: .main-menu, Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Open Filters Sidebar, Locator: #filter_col, Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Open Footer Categories, Locator: //h3[text()='Contacts'], Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Open Footer Categories, Locator: #collapse_3, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Open Footer Categories, Locator: //h3[text()='Keep in touch'], Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Open Footer Categories, Locator: #collapse_4, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Open Footer Categories, Locator: //h3[text()='Quick Links'], Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Open Footer Categories, Locator: #collapse_1, Browser: firefox, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: #logo img, Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .main-menu, Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: //div[@class='hamburger-box']/ancestor::a, Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .custom-search-input, Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .btn_search_mob, Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .access_link, Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .wishlist, Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .cart_bt, Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .cart_bt strong, Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: #shoe_img, Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .prod_info .icon-star, Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .prod_info em, Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .prod_info p small, Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .prod_info p, Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: #quantity_1, Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .custom-select-form .list, Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .custom-select-form li, Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .btn_add_to_cart a, Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: #new_price, Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: #old_price, Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: #discount, Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: //h3[text()='Quick Links'], Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: #collapse_1, Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: //h3[text()='Contacts'], Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: #collapse_3, Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: //h3[text()='Keep in touch'], Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: #collapse_4, Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Shopping Experience Test, Locator: .grid_item, Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Hover grid item, Locator: .grid_item, Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Hover grid item, Locator: .grid_item .ti-shopping-cart, Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Hover grid item, Locator: .grid_item .ti-control-shuffle, Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Hover grid item, Locator: .grid_item .ti-heart, Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Hover grid item, Locator: .grid_item img, Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Open Size Options, Locator: .custom-select-form li, Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Change Quantity +button, Locator: #quantity_1, Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Change Quantity -button, Locator: #quantity_1, Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Open Footer Categories, Locator: //h3[text()='Contacts'], Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Open Footer Categories, Locator: #collapse_3, Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Open Footer Categories, Locator: //h3[text()='Keep in touch'], Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Open Footer Categories, Locator: #collapse_4, Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Open Footer Categories, Locator: //h3[text()='Quick Links'], Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Open Footer Categories, Locator: #collapse_1, Browser: msedge, Viewport: 1200 x 700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Shopping Experience Test, Locator: .grid_item, Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: #logo img, Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .main-menu, Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: //div[@class='hamburger-box']/ancestor::a, Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .custom-search-input, Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .btn_search_mob, Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .access_link, Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .wishlist, Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .cart_bt, Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .cart_bt strong, Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: #shoe_img, Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .prod_info .icon-star, Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .prod_info em, Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .prod_info p small, Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .prod_info p, Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: #quantity_1, Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .custom-select-form .list, Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .custom-select-form li, Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: .btn_add_to_cart a, Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: #new_price, Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: #old_price, Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: #discount, Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: //h3[text()='Quick Links'], Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: #collapse_1, Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: //h3[text()='Contacts'], Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: #collapse_3, Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: //h3[text()='Keep in touch'], Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product Details Test, Locator: #collapse_4, Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Open Size Options, Locator: .custom-select-form li, Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Change Quantity +button, Locator: #quantity_1, Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Change Quantity -button, Locator: #quantity_1, Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: #logo img, Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .main-menu, Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: //div[@class='hamburger-box']/ancestor::a, Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .custom-search-input, Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .btn_search_mob, Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .access_link, Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .wishlist, Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .cart_bt, Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .cart_bt strong, Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .top_banner, Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: #filter_col, Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .sort_select, Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .open_filters span, Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: #ti-filter, Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .ti-view-grid, Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .ti-view-list, Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: #product_grid, Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .grid_item, Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .grid_item img, Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .grid_item .ti-heart, Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .grid_item .ti-control-shuffle, Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: .grid_item .ti-shopping-cart, Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: //h3[text()='Quick Links'], Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: #collapse_1, Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: //h3[text()='Contacts'], Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: #collapse_3, Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: //h3[text()='Keep in touch'], Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, Locator: #collapse_4, Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Open Main Menu, Locator: .main-menu, Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Open Filters Sidebar, Locator: #filter_col, Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Hover grid item, Locator: .grid_item, Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Hover grid item, Locator: .grid_item .ti-shopping-cart, Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Hover grid item, Locator: .grid_item .ti-control-shuffle, Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Hover grid item, Locator: .grid_item .ti-heart, Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Hover grid item, Locator: .grid_item img, Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Open Footer Categories, Locator: //h3[text()='Contacts'], Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Open Footer Categories, Locator: #collapse_3, Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Open Footer Categories, Locator: //h3[text()='Keep in touch'], Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Open Footer Categories, Locator: #collapse_4, Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Open Footer Categories, Locator: //h3[text()='Quick Links'], Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Open Footer Categories, Locator: #collapse_1, Browser: msedge, Viewport: 768 x 700, Device: Tablet, Status: Pass

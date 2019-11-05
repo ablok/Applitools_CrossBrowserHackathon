@@ -1,0 +1,772 @@
+[
+  {
+    "#logo img": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 146.0625,
+          "y": 16.296875
+        },
+        "size": {
+          "width": 193,
+          "height": 20
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(0, 77, 218)",
+          "color": "rgb(0, 77, 218)",
+          "font": "14px / 21px Roboto, Arial, Helvetica, sans-serif"
+        },
+        "image": "https://demo.applitools.com/grid/img/logo.svg"
+      }
+    ]
+  },
+  {
+    ".main-menu": [
+      {
+        "visibility": true,
+        "location": {
+          "x": -1503.5,
+          "y": 0
+        },
+        "size": {
+          "width": 485,
+          "height": 700
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "14px / 21px Roboto, Arial, Helvetica, sans-serif"
+        }
+      }
+    ]
+  },
+  {
+    "//div[@class='hamburger-box']/ancestor::a": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 15,
+          "y": 10.296875
+        },
+        "size": {
+          "width": 26,
+          "height": 32
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(0, 77, 218)",
+          "color": "rgb(0, 77, 218)",
+          "font": "14px / 21px Roboto, Arial, Helvetica, sans-serif"
+        }
+      }
+    ]
+  },
+  {
+    ".custom-search-input": [
+      {
+        "visibility": false,
+        "location": {
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "width": 0,
+          "height": 0
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgb(242, 242, 242)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "14px / 21px Roboto, Arial, Helvetica, sans-serif"
+        }
+      }
+    ]
+  },
+  {
+    ".btn_search_mob": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 15,
+          "y": 61.296875
+        },
+        "size": {
+          "width": 26,
+          "height": 28
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(17, 17, 17)",
+          "color": "rgb(17, 17, 17)",
+          "font": "14px / 28px Roboto, Arial, Helvetica, sans-serif"
+        }
+      }
+    ]
+  },
+  {
+    ".access_link": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 352,
+          "y": 61.296875
+        },
+        "size": {
+          "width": 26,
+          "height": 28
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(17, 17, 17)",
+          "color": "rgb(17, 17, 17)",
+          "font": "14px / 28px Roboto, Arial, Helvetica, sans-serif"
+        }
+      }
+    ]
+  },
+  {
+    ".wishlist": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 398,
+          "y": 61.296875
+        },
+        "size": {
+          "width": 26,
+          "height": 28
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(17, 17, 17)",
+          "color": "rgb(17, 17, 17)",
+          "font": "14px / 28px Roboto, Arial, Helvetica, sans-serif"
+        }
+      }
+    ]
+  },
+  {
+    ".cart_bt": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 444,
+          "y": 61.296875
+        },
+        "size": {
+          "width": 26,
+          "height": 28
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(17, 17, 17)",
+          "color": "rgb(17, 17, 17)",
+          "font": "14px / 28px Roboto, Arial, Helvetica, sans-serif"
+        }
+      }
+    ]
+  },
+  {
+    ".cart_bt strong": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 457,
+          "y": 76.296875
+        },
+        "size": {
+          "width": 16,
+          "height": 16
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgb(8, 52, 135)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(255, 255, 255)",
+          "color": "rgb(255, 255, 255)",
+          "font": "700 10px / 17px Roboto, Arial, Helvetica, sans-serif"
+        },
+        "text": "2"
+      }
+    ]
+  },
+  {
+    "#shoe_img": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 15,
+          "y": 188.296875
+        },
+        "size": {
+          "width": 455,
+          "height": 350
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "url(\"https://demo.applitools.com/grid/img/products/shoes/1.jpg\")",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "14px / 21px Roboto, Arial, Helvetica, sans-serif"
+        }
+      }
+    ]
+  },
+  {
+    ".prod_info .icon-star": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 15,
+          "y": 600.296875
+        },
+        "size": {
+          "width": 18,
+          "height": 16
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(254, 195, 72)",
+          "color": "rgb(254, 195, 72)",
+          "font": "italic 14px / 21px Roboto, Arial, Helvetica, sans-serif"
+        }
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 33,
+          "y": 600.296875
+        },
+        "size": {
+          "width": 18,
+          "height": 16
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(254, 195, 72)",
+          "color": "rgb(254, 195, 72)",
+          "font": "italic 14px / 21px Roboto, Arial, Helvetica, sans-serif"
+        }
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 51,
+          "y": 600.296875
+        },
+        "size": {
+          "width": 18,
+          "height": 16
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(254, 195, 72)",
+          "color": "rgb(254, 195, 72)",
+          "font": "italic 14px / 21px Roboto, Arial, Helvetica, sans-serif"
+        }
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 69,
+          "y": 600.296875
+        },
+        "size": {
+          "width": 18,
+          "height": 16
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(254, 195, 72)",
+          "color": "rgb(254, 195, 72)",
+          "font": "italic 14px / 21px Roboto, Arial, Helvetica, sans-serif"
+        }
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 87,
+          "y": 600.296875
+        },
+        "size": {
+          "width": 18,
+          "height": 16
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(136, 135, 135)",
+          "color": "rgb(136, 135, 135)",
+          "font": "italic 14px / 21px Roboto, Arial, Helvetica, sans-serif"
+        }
+      }
+    ]
+  },
+  {
+    ".prod_info em": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 105,
+          "y": 600.296875
+        },
+        "size": {
+          "width": 59,
+          "height": 16
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(136, 135, 135)",
+          "color": "rgb(136, 135, 135)",
+          "font": "italic 14px / 21px Roboto, Arial, Helvetica, sans-serif"
+        },
+        "text": "4 reviews"
+      }
+    ]
+  },
+  {
+    ".prod_info p small": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 15,
+          "y": 639.296875
+        },
+        "size": {
+          "width": 85,
+          "height": 13
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "11.2px / 16.8px Roboto, Arial, Helvetica, sans-serif"
+        },
+        "text": "SKU: MTKRY-001"
+      }
+    ]
+  },
+  {
+    ".prod_info p": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 15,
+          "y": 634.296875
+        },
+        "size": {
+          "width": 455,
+          "height": 126
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "14px / 21px Roboto, Arial, Helvetica, sans-serif"
+        }
+      }
+    ]
+  },
+  {
+    "#quantity_1": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 343.75,
+          "y": 819.296875
+        },
+        "size": {
+          "width": 40,
+          "height": 40
+        },
+        "css": {
+          "display": "inline-block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "font": "14px / 21px Roboto, Arial, Helvetica, sans-serif"
+        },
+        "value": "1"
+      }
+    ]
+  },
+  {
+    ".custom-select-form .list": [
+      {
+        "visibility": false,
+        "location": {
+          "x": 284.8125,
+          "y": 807.046875
+        },
+        "size": {
+          "width": 211,
+          "height": 128
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "14px / 34px Roboto, Arial, Helvetica, sans-serif"
+        }
+      }
+    ]
+  },
+  {
+    ".custom-select-form li": [
+      {
+        "visibility": false,
+        "location": {
+          "x": 284.8125,
+          "y": 807.046875
+        },
+        "size": {
+          "width": 211,
+          "height": 32
+        },
+        "css": {
+          "display": "list-item",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "500 14px / 32px Roboto, Arial, Helvetica, sans-serif"
+        },
+        "text": "Small (S)"
+      },
+      {
+        "visibility": false,
+        "location": {
+          "x": 284.8125,
+          "y": 831.046875
+        },
+        "size": {
+          "width": 211,
+          "height": 32
+        },
+        "css": {
+          "display": "list-item",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "14px / 32px Roboto, Arial, Helvetica, sans-serif"
+        },
+        "text": "M"
+      },
+      {
+        "visibility": false,
+        "location": {
+          "x": 284.8125,
+          "y": 855.046875
+        },
+        "size": {
+          "width": 211,
+          "height": 32
+        },
+        "css": {
+          "display": "list-item",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "14px / 32px Roboto, Arial, Helvetica, sans-serif"
+        },
+        "text": "L"
+      },
+      {
+        "visibility": false,
+        "location": {
+          "x": 284.8125,
+          "y": 879.046875
+        },
+        "size": {
+          "width": 211,
+          "height": 32
+        },
+        "css": {
+          "display": "list-item",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "14px / 32px Roboto, Arial, Helvetica, sans-serif"
+        },
+        "text": "XL"
+      }
+    ]
+  },
+  {
+    ".btn_add_to_cart a": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 348.84375,
+          "y": 884.296875
+        },
+        "size": {
+          "width": 122,
+          "height": 40
+        },
+        "css": {
+          "display": "inline-block",
+          "backgroundColor": "rgb(0, 77, 218)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(255, 255, 255)",
+          "color": "rgb(255, 255, 255)",
+          "font": "500 14px Roboto, Arial, Helvetica, sans-serif"
+        },
+        "text": "Add to Cart"
+      }
+    ]
+  },
+  {
+    "#new_price": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 23.765625,
+          "y": 896.296875
+        },
+        "size": {
+          "width": 50,
+          "height": 19
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(0, 77, 218)",
+          "color": "rgb(0, 77, 218)",
+          "font": "500 16px / 24px Roboto, Arial, Helvetica, sans-serif"
+        },
+        "text": "$33.00"
+      }
+    ]
+  },
+  {
+    "#old_price": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 77.171875,
+          "y": 894.296875
+        },
+        "size": {
+          "width": 50,
+          "height": 24
+        },
+        "css": {
+          "display": "inline-block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "line-through solid rgb(153, 153, 153)",
+          "color": "rgb(153, 153, 153)",
+          "font": "500 16px / 24px Roboto, Arial, Helvetica, sans-serif"
+        },
+        "text": "$48.00"
+      }
+    ]
+  },
+  {
+    "#discount": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 140.578125,
+          "y": 895.296875
+        },
+        "size": {
+          "width": 87,
+          "height": 20
+        },
+        "css": {
+          "display": "inline-block",
+          "backgroundColor": "rgb(255, 51, 51)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(255, 255, 255)",
+          "color": "rgb(255, 255, 255)",
+          "font": "600 12px / 12px Roboto, Arial, Helvetica, sans-serif"
+        },
+        "text": "-30% discount"
+      }
+    ]
+  },
+  {
+    "//h3[text()='Quick Links']": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 0,
+          "y": 929.296875
+        },
+        "size": {
+          "width": 485,
+          "height": 46
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(255, 255, 255)",
+          "color": "rgb(255, 255, 255)",
+          "font": "500 13px / 15.6px Roboto, Arial, Helvetica, sans-serif"
+        },
+        "text": "Quick Links"
+      }
+    ]
+  },
+  {
+    "#collapse_1": [
+      {
+        "visibility": false,
+        "location": {
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "width": 92,
+          "height": 182
+        },
+        "css": {
+          "display": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "14px / 21px Roboto, Arial, Helvetica, sans-serif"
+        }
+      }
+    ]
+  },
+  {
+    "//h3[text()='Contacts']": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 0,
+          "y": 975.296875
+        },
+        "size": {
+          "width": 485,
+          "height": 46
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(255, 255, 255)",
+          "color": "rgb(255, 255, 255)",
+          "font": "500 13px / 15.6px Roboto, Arial, Helvetica, sans-serif"
+        },
+        "text": "Contacts"
+      }
+    ]
+  },
+  {
+    "#collapse_3": [
+      {
+        "visibility": false,
+        "location": {
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "width": 169,
+          "height": 118
+        },
+        "css": {
+          "display": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "14px / 21px Roboto, Arial, Helvetica, sans-serif"
+        }
+      }
+    ]
+  },
+  {
+    "//h3[text()='Keep in touch']": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 0,
+          "y": 1021.296875
+        },
+        "size": {
+          "width": 485,
+          "height": 46
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(255, 255, 255)",
+          "color": "rgb(255, 255, 255)",
+          "font": "500 13px / 15.6px Roboto, Arial, Helvetica, sans-serif"
+        },
+        "text": "Keep in touch"
+      }
+    ]
+  },
+  {
+    "#collapse_4": [
+      {
+        "visibility": false,
+        "location": {
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "width": 171,
+          "height": 76
+        },
+        "css": {
+          "display": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "14px / 21px Roboto, Arial, Helvetica, sans-serif"
+        }
+      }
+    ]
+  }
+]

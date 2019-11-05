@@ -1,0 +1,4 @@
+node_modules
+logs
+elements/actual
+elements/diff

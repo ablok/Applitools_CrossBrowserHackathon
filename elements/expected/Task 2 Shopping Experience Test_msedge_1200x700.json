@@ -1,0 +1,44 @@
+[
+  {
+    ".grid_item": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 311.25,
+          "y": 602
+        },
+        "size": {
+          "width": 280,
+          "height": 342
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "14px / 21px Roboto, Arial, Helvetica, sans-serif"
+        }
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 600.828125,
+          "y": 602
+        },
+        "size": {
+          "width": 280,
+          "height": 342
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "14px / 21px Roboto, Arial, Helvetica, sans-serif"
+        }
+      }
+    ]
+  }
+]

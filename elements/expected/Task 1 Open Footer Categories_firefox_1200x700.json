@@ -1,0 +1,143 @@
+[
+  {
+    "//h3[text()='Contacts']": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 315,
+          "y": 1803.2000122070312
+        },
+        "size": {
+          "width": 270,
+          "height": 16.800003051757812
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(255, 255, 255)",
+          "color": "rgb(255, 255, 255)",
+          "font": ""
+        },
+        "text": "Contacts"
+      }
+    ]
+  },
+  {
+    "#collapse_3": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 315,
+          "y": 1835
+        },
+        "size": {
+          "width": 270,
+          "height": 78
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        }
+      }
+    ]
+  },
+  {
+    "//h3[text()='Keep in touch']": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 615,
+          "y": 1803.2000122070312
+        },
+        "size": {
+          "width": 270,
+          "height": 16.800003051757812
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(255, 255, 255)",
+          "color": "rgb(255, 255, 255)",
+          "font": ""
+        },
+        "text": "Keep in touch"
+      }
+    ]
+  },
+  {
+    "#collapse_4": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 615,
+          "y": 1835
+        },
+        "size": {
+          "width": 270,
+          "height": 40
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        }
+      }
+    ]
+  },
+  {
+    "//h3[text()='Quick Links']": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 15,
+          "y": 1803.2000122070312
+        },
+        "size": {
+          "width": 270,
+          "height": 16.800003051757812
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(255, 255, 255)",
+          "color": "rgb(255, 255, 255)",
+          "font": ""
+        },
+        "text": "Quick Links"
+      }
+    ]
+  },
+  {
+    "#collapse_1": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 15,
+          "y": 1835
+        },
+        "size": {
+          "width": 270,
+          "height": 152.8000030517578
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        }
+      }
+    ]
+  }
+]

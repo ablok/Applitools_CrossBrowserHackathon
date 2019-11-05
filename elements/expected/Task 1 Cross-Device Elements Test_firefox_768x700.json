@@ -1,0 +1,1421 @@
+[
+  {
+    "#logo img": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 287.54998779296875,
+          "y": 16.300003051757812
+        },
+        "size": {
+          "width": 192.88333129882812,
+          "height": 20
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(0, 77, 218)",
+          "color": "rgb(0, 77, 218)",
+          "font": ""
+        },
+        "image": "/grid/img/logo.svg"
+      }
+    ]
+  },
+  {
+    ".main-menu": [
+      {
+        "visibility": false,
+        "location": {
+          "x": -1536,
+          "y": 0
+        },
+        "size": {
+          "width": 345.6000061035156,
+          "height": 626
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        }
+      }
+    ]
+  },
+  {
+    "//div[@class='hamburger-box']/ancestor::a": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 15,
+          "y": 10.300003051757812
+        },
+        "size": {
+          "width": 26,
+          "height": 32
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(0, 77, 218)",
+          "color": "rgb(0, 77, 218)",
+          "font": ""
+        }
+      }
+    ]
+  },
+  {
+    ".custom-search-input": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 202,
+          "y": 51.30000305175781
+        },
+        "size": {
+          "width": 364,
+          "height": 40
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgb(242, 242, 242)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        }
+      }
+    ]
+  },
+  {
+    ".btn_search_mob": [
+      {
+        "visibility": false,
+        "location": {
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "width": 0,
+          "height": 0
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(17, 17, 17)",
+          "color": "rgb(17, 17, 17)",
+          "font": ""
+        }
+      }
+    ]
+  },
+  {
+    ".access_link": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 681,
+          "y": 51.30000305175781
+        },
+        "size": {
+          "width": 26,
+          "height": 60
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(17, 17, 17)",
+          "color": "rgb(17, 17, 17)",
+          "font": ""
+        }
+      }
+    ]
+  },
+  {
+    ".wishlist": [
+      {
+        "visibility": false,
+        "location": {
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "width": 0,
+          "height": 0
+        },
+        "css": {
+          "display": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(17, 17, 17)",
+          "color": "rgb(17, 17, 17)",
+          "font": ""
+        }
+      }
+    ]
+  },
+  {
+    ".cart_bt": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 727,
+          "y": 51.30000305175781
+        },
+        "size": {
+          "width": 26,
+          "height": 60
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(17, 17, 17)",
+          "color": "rgb(17, 17, 17)",
+          "font": ""
+        }
+      }
+    ]
+  },
+  {
+    ".cart_bt strong": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 740,
+          "y": 85.30000305175781
+        },
+        "size": {
+          "width": 16,
+          "height": 16
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgb(8, 52, 135)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(255, 255, 255)",
+          "color": "rgb(255, 255, 255)",
+          "font": ""
+        },
+        "text": "2"
+      }
+    ]
+  },
+  {
+    ".top_banner": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 15,
+          "y": 142.3000030517578
+        },
+        "size": {
+          "width": 738,
+          "height": 350
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "url(\"https://demo.applitools.com/grid/img/bg_cat_shoes.jpg\")",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        }
+      }
+    ]
+  },
+  {
+    "#filter_col": [
+      {
+        "visibility": false,
+        "location": {
+          "x": -1459.199951171875,
+          "y": 0
+        },
+        "size": {
+          "width": 345.5999755859375,
+          "height": 626
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        }
+      }
+    ]
+  },
+  {
+    ".sort_select": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 30,
+          "y": 527.2999877929688
+        },
+        "size": {
+          "width": 187.78334045410156,
+          "height": 25
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        }
+      }
+    ]
+  },
+  {
+    ".open_filters span": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 659.5333251953125,
+          "y": 527.2999877929688
+        },
+        "size": {
+          "width": 38.46665954589844,
+          "height": 25
+        },
+        "css": {
+          "display": "inline-block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        },
+        "text": "Filters"
+      }
+    ]
+  },
+  {
+    "#ti-filter": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 638.5333251953125,
+          "y": 532.2999877929688
+        },
+        "size": {
+          "width": 16,
+          "height": 16
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        }
+      }
+    ]
+  },
+  {
+    ".ti-view-grid": [
+      {
+        "visibility": false,
+        "location": {
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "width": 0,
+          "height": 0
+        },
+        "css": {
+          "display": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        }
+      }
+    ]
+  },
+  {
+    ".ti-view-list": [
+      {
+        "visibility": false,
+        "location": {
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "width": 0,
+          "height": 0
+        },
+        "css": {
+          "display": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        }
+      }
+    ]
+  },
+  {
+    "#product_grid": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 10,
+          "y": 585.2999877929688
+        },
+        "size": {
+          "width": 748,
+          "height": 1116.699951171875
+        },
+        "css": {
+          "display": "flex",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        }
+      }
+    ]
+  },
+  {
+    ".grid_item": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 15,
+          "y": 585.2999877929688
+        },
+        "size": {
+          "width": 239.3333282470703,
+          "height": 347.23333740234375
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        }
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 264.33331298828125,
+          "y": 585.2999877929688
+        },
+        "size": {
+          "width": 239.33334350585935,
+          "height": 347.23333740234375
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        }
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 513.6666870117188,
+          "y": 585.2999877929688
+        },
+        "size": {
+          "width": 239.3333282470703,
+          "height": 347.23333740234375
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        }
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 15,
+          "y": 957.5333251953124
+        },
+        "size": {
+          "width": 239.3333282470703,
+          "height": 347.23333740234375
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        }
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 264.33331298828125,
+          "y": 957.5333251953124
+        },
+        "size": {
+          "width": 239.33334350585935,
+          "height": 347.23333740234375
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        }
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 513.6666870117188,
+          "y": 957.5333251953124
+        },
+        "size": {
+          "width": 239.3333282470703,
+          "height": 347.23333740234375
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        }
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 15,
+          "y": 1329.7666015625
+        },
+        "size": {
+          "width": 239.3333282470703,
+          "height": 347.23333740234375
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        }
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 264.33331298828125,
+          "y": 1329.7666015625
+        },
+        "size": {
+          "width": 239.33334350585935,
+          "height": 347.23333740234375
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        }
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 513.6666870117188,
+          "y": 1329.7666015625
+        },
+        "size": {
+          "width": 239.3333282470703,
+          "height": 347.23333740234375
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        }
+      }
+    ]
+  },
+  {
+    ".grid_item img": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 15,
+          "y": 585.2999877929688
+        },
+        "size": {
+          "width": 239.3333282470703,
+          "height": 239.3333282470703
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(0, 77, 218)",
+          "color": "rgb(0, 77, 218)",
+          "font": ""
+        },
+        "image": "/grid/img/products/shoes/1.jpg"
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 264.33331298828125,
+          "y": 585.2999877929688
+        },
+        "size": {
+          "width": 239.33334350585935,
+          "height": 239.3333282470703
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(0, 77, 218)",
+          "color": "rgb(0, 77, 218)",
+          "font": ""
+        },
+        "image": "/grid/img/products/shoes/3.jpg"
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 513.6666870117188,
+          "y": 585.2999877929688
+        },
+        "size": {
+          "width": 239.3333282470703,
+          "height": 239.3333282470703
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(0, 77, 218)",
+          "color": "rgb(0, 77, 218)",
+          "font": ""
+        },
+        "image": "/grid/img/products/shoes/4.jpg"
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 15,
+          "y": 957.5333251953124
+        },
+        "size": {
+          "width": 239.3333282470703,
+          "height": 239.3333282470703
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(0, 77, 218)",
+          "color": "rgb(0, 77, 218)",
+          "font": ""
+        },
+        "image": "/grid/img/products/shoes/5.jpg"
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 264.33331298828125,
+          "y": 957.5333251953124
+        },
+        "size": {
+          "width": 239.33334350585935,
+          "height": 239.3333282470703
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(0, 77, 218)",
+          "color": "rgb(0, 77, 218)",
+          "font": ""
+        },
+        "image": "/grid/img/products/shoes/6.jpg"
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 513.6666870117188,
+          "y": 957.5333251953124
+        },
+        "size": {
+          "width": 239.3333282470703,
+          "height": 239.3333282470703
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(0, 77, 218)",
+          "color": "rgb(0, 77, 218)",
+          "font": ""
+        },
+        "image": "/grid/img/products/shoes/7.jpg"
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 15,
+          "y": 1329.7666015625
+        },
+        "size": {
+          "width": 239.3333282470703,
+          "height": 239.33334350585935
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(0, 77, 218)",
+          "color": "rgb(0, 77, 218)",
+          "font": ""
+        },
+        "image": "/grid/img/products/shoes/8.jpg"
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 264.33331298828125,
+          "y": 1329.7666015625
+        },
+        "size": {
+          "width": 239.33334350585935,
+          "height": 239.33334350585935
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(0, 77, 218)",
+          "color": "rgb(0, 77, 218)",
+          "font": ""
+        },
+        "image": "/grid/img/products/shoes/2.jpg"
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 513.6666870117188,
+          "y": 1329.7666015625
+        },
+        "size": {
+          "width": 239.3333282470703,
+          "height": 239.33334350585935
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(0, 77, 218)",
+          "color": "rgb(0, 77, 218)",
+          "font": ""
+        },
+        "image": "/grid/img/products/shoes/9.jpg"
+      }
+    ]
+  },
+  {
+    ".grid_item .ti-heart": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 89.66667175292969,
+          "y": 900.5333251953125
+        },
+        "size": {
+          "width": 18,
+          "height": 19
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        }
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 339,
+          "y": 900.5333251953125
+        },
+        "size": {
+          "width": 18,
+          "height": 19
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        }
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 588.3333129882812,
+          "y": 900.5333251953125
+        },
+        "size": {
+          "width": 18,
+          "height": 19
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        }
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 89.66667175292969,
+          "y": 1272.7666015625
+        },
+        "size": {
+          "width": 18,
+          "height": 19
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        }
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 339,
+          "y": 1272.7666015625
+        },
+        "size": {
+          "width": 18,
+          "height": 19
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        }
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 588.3333129882812,
+          "y": 1272.7666015625
+        },
+        "size": {
+          "width": 18,
+          "height": 19
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        }
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 89.66667175292969,
+          "y": 1645
+        },
+        "size": {
+          "width": 18,
+          "height": 19
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        }
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 339,
+          "y": 1645
+        },
+        "size": {
+          "width": 18,
+          "height": 19
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        }
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 588.3333129882812,
+          "y": 1645
+        },
+        "size": {
+          "width": 18,
+          "height": 19
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        }
+      }
+    ]
+  },
+  {
+    ".grid_item .ti-control-shuffle": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 125.66667175292967,
+          "y": 900.5333251953125
+        },
+        "size": {
+          "width": 18,
+          "height": 19
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        }
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 375,
+          "y": 900.5333251953125
+        },
+        "size": {
+          "width": 18,
+          "height": 19
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        }
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 624.3333129882812,
+          "y": 900.5333251953125
+        },
+        "size": {
+          "width": 18,
+          "height": 19
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        }
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 125.66667175292967,
+          "y": 1272.7666015625
+        },
+        "size": {
+          "width": 18,
+          "height": 19
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        }
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 375,
+          "y": 1272.7666015625
+        },
+        "size": {
+          "width": 18,
+          "height": 19
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        }
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 624.3333129882812,
+          "y": 1272.7666015625
+        },
+        "size": {
+          "width": 18,
+          "height": 19
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        }
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 125.66667175292967,
+          "y": 1645
+        },
+        "size": {
+          "width": 18,
+          "height": 19
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        }
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 375,
+          "y": 1645
+        },
+        "size": {
+          "width": 18,
+          "height": 19
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        }
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 624.3333129882812,
+          "y": 1645
+        },
+        "size": {
+          "width": 18,
+          "height": 19
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        }
+      }
+    ]
+  },
+  {
+    ".grid_item .ti-shopping-cart": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 161.6666717529297,
+          "y": 900.5333251953125
+        },
+        "size": {
+          "width": 18,
+          "height": 19
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        }
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 411,
+          "y": 900.5333251953125
+        },
+        "size": {
+          "width": 18,
+          "height": 19
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        }
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 660.3333129882812,
+          "y": 900.5333251953125
+        },
+        "size": {
+          "width": 18,
+          "height": 19
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        }
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 161.6666717529297,
+          "y": 1272.7666015625
+        },
+        "size": {
+          "width": 18,
+          "height": 19
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        }
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 411,
+          "y": 1272.7666015625
+        },
+        "size": {
+          "width": 18,
+          "height": 19
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        }
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 660.3333129882812,
+          "y": 1272.7666015625
+        },
+        "size": {
+          "width": 18,
+          "height": 19
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        }
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 161.6666717529297,
+          "y": 1645
+        },
+        "size": {
+          "width": 18,
+          "height": 19
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        }
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 411,
+          "y": 1645
+        },
+        "size": {
+          "width": 18,
+          "height": 19
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        }
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 660.3333129882812,
+          "y": 1645
+        },
+        "size": {
+          "width": 18,
+          "height": 19
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        }
+      }
+    ]
+  },
+  {
+    "//h3[text()='Quick Links']": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 15,
+          "y": 1792
+        },
+        "size": {
+          "width": 354,
+          "height": 16.800003051757812
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(255, 255, 255)",
+          "color": "rgb(255, 255, 255)",
+          "font": ""
+        },
+        "text": "Quick Links"
+      }
+    ]
+  },
+  {
+    "#collapse_1": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 15,
+          "y": 1823.800048828125
+        },
+        "size": {
+          "width": 354,
+          "height": 152.8000030517578
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        }
+      }
+    ]
+  },
+  {
+    "//h3[text()='Contacts']": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 399,
+          "y": 1792
+        },
+        "size": {
+          "width": 354,
+          "height": 16.800003051757812
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(255, 255, 255)",
+          "color": "rgb(255, 255, 255)",
+          "font": ""
+        },
+        "text": "Contacts"
+      }
+    ]
+  },
+  {
+    "#collapse_3": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 399,
+          "y": 1823.800048828125
+        },
+        "size": {
+          "width": 354,
+          "height": 78
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        }
+      }
+    ]
+  },
+  {
+    "//h3[text()='Keep in touch']": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 15,
+          "y": 2001.5999755859375
+        },
+        "size": {
+          "width": 354,
+          "height": 16.79998779296875
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(255, 255, 255)",
+          "color": "rgb(255, 255, 255)",
+          "font": ""
+        },
+        "text": "Keep in touch"
+      }
+    ]
+  },
+  {
+    "#collapse_4": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 15,
+          "y": 2033.4000244140625
+        },
+        "size": {
+          "width": 354,
+          "height": 40
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        }
+      }
+    ]
+  }
+]

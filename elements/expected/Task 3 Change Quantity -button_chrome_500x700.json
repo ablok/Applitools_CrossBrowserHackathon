@@ -1,0 +1,26 @@
+[
+  {
+    "#quantity_1": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 343.75,
+          "y": 819.296875
+        },
+        "size": {
+          "width": 40,
+          "height": 40
+        },
+        "css": {
+          "display": "inline-block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "font": "14px / 21px Roboto, Arial, Helvetica, sans-serif"
+        },
+        "value": "1"
+      }
+    ]
+  }
+]

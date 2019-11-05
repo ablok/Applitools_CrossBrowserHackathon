@@ -1,0 +1,772 @@
+[
+  {
+    "#logo img": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 15,
+          "y": 16.75
+        },
+        "size": {
+          "width": 150,
+          "height": 35
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(0, 77, 218)",
+          "color": "rgb(0, 77, 218)",
+          "font": ""
+        },
+        "image": "/grid/img/logo.svg"
+      }
+    ]
+  },
+  {
+    ".main-menu": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 310,
+          "y": 0
+        },
+        "size": {
+          "width": 580,
+          "height": 68.5
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        }
+      }
+    ]
+  },
+  {
+    "//div[@class='hamburger-box']/ancestor::a": [
+      {
+        "visibility": false,
+        "location": {
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "width": 0,
+          "height": 0
+        },
+        "css": {
+          "display": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(0, 77, 218)",
+          "color": "rgb(0, 77, 218)",
+          "font": ""
+        }
+      }
+    ]
+  },
+  {
+    ".custom-search-input": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 310,
+          "y": 68.5
+        },
+        "size": {
+          "width": 580,
+          "height": 40
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgb(242, 242, 242)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        }
+      }
+    ]
+  },
+  {
+    ".btn_search_mob": [
+      {
+        "visibility": false,
+        "location": {
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "width": 0,
+          "height": 0
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(17, 17, 17)",
+          "color": "rgb(17, 17, 17)",
+          "font": ""
+        }
+      }
+    ]
+  },
+  {
+    ".access_link": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 1067,
+          "y": 68.5
+        },
+        "size": {
+          "width": 26,
+          "height": 60
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(17, 17, 17)",
+          "color": "rgb(17, 17, 17)",
+          "font": ""
+        }
+      }
+    ]
+  },
+  {
+    ".wishlist": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 1113,
+          "y": 68.5
+        },
+        "size": {
+          "width": 26,
+          "height": 60
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(17, 17, 17)",
+          "color": "rgb(17, 17, 17)",
+          "font": ""
+        }
+      }
+    ]
+  },
+  {
+    ".cart_bt": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 1159,
+          "y": 68.5
+        },
+        "size": {
+          "width": 26,
+          "height": 60
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(17, 17, 17)",
+          "color": "rgb(17, 17, 17)",
+          "font": ""
+        }
+      }
+    ]
+  },
+  {
+    ".cart_bt strong": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 1172,
+          "y": 102.5
+        },
+        "size": {
+          "width": 16,
+          "height": 16
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgb(8, 52, 135)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(255, 255, 255)",
+          "color": "rgb(255, 255, 255)",
+          "font": ""
+        },
+        "text": "2"
+      }
+    ]
+  },
+  {
+    "#shoe_img": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 215,
+          "y": 218.3000030517578
+        },
+        "size": {
+          "width": 770,
+          "height": 350
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "url(\"https://demo.applitools.com/grid/img/products/shoes/1.jpg\")",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        }
+      }
+    ]
+  },
+  {
+    ".prod_info .icon-star": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 15,
+          "y": 660.2999877929688
+        },
+        "size": {
+          "width": 18,
+          "height": 17
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(254, 195, 72)",
+          "color": "rgb(254, 195, 72)",
+          "font": ""
+        }
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 33,
+          "y": 660.2999877929688
+        },
+        "size": {
+          "width": 18,
+          "height": 17
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(254, 195, 72)",
+          "color": "rgb(254, 195, 72)",
+          "font": ""
+        }
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 51,
+          "y": 660.2999877929688
+        },
+        "size": {
+          "width": 18,
+          "height": 17
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(254, 195, 72)",
+          "color": "rgb(254, 195, 72)",
+          "font": ""
+        }
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 69,
+          "y": 660.2999877929688
+        },
+        "size": {
+          "width": 18,
+          "height": 17
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(254, 195, 72)",
+          "color": "rgb(254, 195, 72)",
+          "font": ""
+        }
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 87,
+          "y": 660.2999877929688
+        },
+        "size": {
+          "width": 18,
+          "height": 17
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(136, 135, 135)",
+          "color": "rgb(136, 135, 135)",
+          "font": ""
+        }
+      }
+    ]
+  },
+  {
+    ".prod_info em": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 105,
+          "y": 660.2999877929688
+        },
+        "size": {
+          "width": 58.600006103515625,
+          "height": 17
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(136, 135, 135)",
+          "color": "rgb(136, 135, 135)",
+          "font": ""
+        },
+        "text": "4 reviews"
+      }
+    ]
+  },
+  {
+    ".prod_info p small": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 15,
+          "y": 698.2999877929688
+        },
+        "size": {
+          "width": 84.75,
+          "height": 14
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        },
+        "text": "SKU: MTKRY-001"
+      }
+    ]
+  },
+  {
+    ".prod_info p": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 15,
+          "y": 694.2999877929688
+        },
+        "size": {
+          "width": 570,
+          "height": 105
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        }
+      }
+    ]
+  },
+  {
+    "#quantity_1": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 1075.8333740234375,
+          "y": 697.2999877929688
+        },
+        "size": {
+          "width": 40,
+          "height": 40
+        },
+        "css": {
+          "display": "inline-block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(0, 0, 0)",
+          "color": "rgb(0, 0, 0)",
+          "font": ""
+        },
+        "value": "1"
+      }
+    ]
+  },
+  {
+    ".custom-select-form .list": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 1029.7166748046875,
+          "y": 685.0499877929688
+        },
+        "size": {
+          "width": 132.25,
+          "height": 96
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        }
+      }
+    ]
+  },
+  {
+    ".custom-select-form li": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 1029.7166748046875,
+          "y": 685.0499877929688
+        },
+        "size": {
+          "width": 132.25,
+          "height": 24
+        },
+        "css": {
+          "display": "list-item",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        },
+        "text": "Small (S)"
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 1029.7166748046875,
+          "y": 709.0499877929688
+        },
+        "size": {
+          "width": 132.25,
+          "height": 24
+        },
+        "css": {
+          "display": "list-item",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        },
+        "text": "M"
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 1029.7166748046875,
+          "y": 733.0499877929688
+        },
+        "size": {
+          "width": 132.25,
+          "height": 24
+        },
+        "css": {
+          "display": "list-item",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        },
+        "text": "L"
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 1029.7166748046875,
+          "y": 757.0499877929688
+        },
+        "size": {
+          "width": 132.25,
+          "height": 24
+        },
+        "css": {
+          "display": "list-item",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        },
+        "text": "XL"
+      }
+    ]
+  },
+  {
+    ".btn_add_to_cart a": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 1063.88330078125,
+          "y": 762.2999877929688
+        },
+        "size": {
+          "width": 121.11666870117188,
+          "height": 41
+        },
+        "css": {
+          "display": "inline-block",
+          "backgroundColor": "rgb(0, 77, 218)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(255, 255, 255)",
+          "color": "rgb(255, 255, 255)",
+          "font": ""
+        },
+        "text": "Add to Cart"
+      }
+    ]
+  },
+  {
+    "#new_price": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 772.9000244140625,
+          "y": 774.7999877929688
+        },
+        "size": {
+          "width": 49.9666748046875,
+          "height": 19
+        },
+        "css": {
+          "display": "inline",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(0, 77, 218)",
+          "color": "rgb(0, 77, 218)",
+          "font": ""
+        },
+        "text": "$33.00"
+      }
+    ]
+  },
+  {
+    "#old_price": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 826.3333129882812,
+          "y": 772.2999877929688
+        },
+        "size": {
+          "width": 49.9666748046875,
+          "height": 24
+        },
+        "css": {
+          "display": "inline-block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "line-through rgb(153, 153, 153)",
+          "color": "rgb(153, 153, 153)",
+          "font": ""
+        },
+        "text": "$48.00"
+      }
+    ]
+  },
+  {
+    "#discount": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 889.7666625976562,
+          "y": 773.2999877929688
+        },
+        "size": {
+          "width": 86.90000915527344,
+          "height": 20
+        },
+        "css": {
+          "display": "inline-block",
+          "backgroundColor": "rgb(255, 51, 51)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(255, 255, 255)",
+          "color": "rgb(255, 255, 255)",
+          "font": ""
+        },
+        "text": "-30% discount"
+      }
+    ]
+  },
+  {
+    "//h3[text()='Quick Links']": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 15,
+          "y": 914.2999877929688
+        },
+        "size": {
+          "width": 270,
+          "height": 16.800003051757812
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(255, 255, 255)",
+          "color": "rgb(255, 255, 255)",
+          "font": ""
+        },
+        "text": "Quick Links"
+      }
+    ]
+  },
+  {
+    "#collapse_1": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 15,
+          "y": 946.0999755859376
+        },
+        "size": {
+          "width": 270,
+          "height": 152.79998779296875
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        }
+      }
+    ]
+  },
+  {
+    "//h3[text()='Contacts']": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 315,
+          "y": 914.2999877929688
+        },
+        "size": {
+          "width": 270,
+          "height": 16.800003051757812
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(255, 255, 255)",
+          "color": "rgb(255, 255, 255)",
+          "font": ""
+        },
+        "text": "Contacts"
+      }
+    ]
+  },
+  {
+    "#collapse_3": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 315,
+          "y": 946.0999755859376
+        },
+        "size": {
+          "width": 270,
+          "height": 78
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        }
+      }
+    ]
+  },
+  {
+    "//h3[text()='Keep in touch']": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 615,
+          "y": 914.2999877929688
+        },
+        "size": {
+          "width": 270,
+          "height": 16.800003051757812
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(255, 255, 255)",
+          "color": "rgb(255, 255, 255)",
+          "font": ""
+        },
+        "text": "Keep in touch"
+      }
+    ]
+  },
+  {
+    "#collapse_4": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 615,
+          "y": 946.0999755859376
+        },
+        "size": {
+          "width": 270,
+          "height": 40
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        }
+      }
+    ]
+  }
+]

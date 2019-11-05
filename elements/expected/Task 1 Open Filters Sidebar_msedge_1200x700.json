@@ -1,0 +1,25 @@
+[
+  {
+    "#filter_col": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 15,
+          "y": 159
+        },
+        "size": {
+          "width": 266,
+          "height": 878
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "14px / 21px Roboto, Arial, Helvetica, sans-serif"
+        }
+      }
+    ]
+  }
+]

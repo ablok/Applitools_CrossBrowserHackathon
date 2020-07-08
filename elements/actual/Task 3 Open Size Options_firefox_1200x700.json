@@ -1,0 +1,86 @@
+[
+  {
+    ".custom-select-form li": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 1007.6666870117188,
+          "y": 700.2999877929688
+        },
+        "size": {
+          "width": 176.3333282470703,
+          "height": 32
+        },
+        "css": {
+          "display": "list-item",
+          "backgroundColor": "rgba(0, 77, 218, 0.04)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        },
+        "text": "Not Small"
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 1007.6666870117188,
+          "y": 732.2999877929688
+        },
+        "size": {
+          "width": 176.3333282470703,
+          "height": 32
+        },
+        "css": {
+          "display": "list-item",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        },
+        "text": "M"
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 1007.6666870117188,
+          "y": 764.2999877929688
+        },
+        "size": {
+          "width": 176.3333282470703,
+          "height": 32
+        },
+        "css": {
+          "display": "list-item",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        },
+        "text": "L"
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 1007.6666870117188,
+          "y": 796.2999877929688
+        },
+        "size": {
+          "width": 176.3333282470703,
+          "height": 32
+        },
+        "css": {
+          "display": "list-item",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        },
+        "text": "XL"
+      }
+    ]
+  }
+]

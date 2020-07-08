@@ -1,0 +1,32 @@
+[
+  {
+    ".grid_item .ti-shopping-cart": [
+      {
+        "op": "update",
+        "path": [0, "visibility"],
+        "val": false,
+        "oldVal": true
+      }
+    ]
+  },
+  {
+    ".grid_item .ti-control-shuffle": [
+      {
+        "op": "update",
+        "path": [0, "visibility"],
+        "val": false,
+        "oldVal": true
+      }
+    ]
+  },
+  {
+    ".grid_item .ti-heart": [
+      {
+        "op": "update",
+        "path": [0, "visibility"],
+        "val": false,
+        "oldVal": true
+      }
+    ]
+  }
+]

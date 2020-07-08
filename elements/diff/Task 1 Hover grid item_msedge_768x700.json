@@ -1,0 +1,176 @@
+[
+  {
+    ".grid_item .ti-shopping-cart": [
+      {
+        "op": "update",
+        "path": [0, "visibility"],
+        "val": false,
+        "oldVal": true
+      },
+      {
+        "op": "update",
+        "path": [1, "visibility"],
+        "val": false,
+        "oldVal": true
+      },
+      {
+        "op": "update",
+        "path": [2, "visibility"],
+        "val": false,
+        "oldVal": true
+      },
+      {
+        "op": "update",
+        "path": [3, "visibility"],
+        "val": false,
+        "oldVal": true
+      },
+      {
+        "op": "update",
+        "path": [4, "visibility"],
+        "val": false,
+        "oldVal": true
+      },
+      {
+        "op": "update",
+        "path": [5, "visibility"],
+        "val": false,
+        "oldVal": true
+      },
+      {
+        "op": "update",
+        "path": [6, "visibility"],
+        "val": false,
+        "oldVal": true
+      },
+      {
+        "op": "update",
+        "path": [7, "visibility"],
+        "val": false,
+        "oldVal": true
+      },
+      {
+        "op": "update",
+        "path": [8, "visibility"],
+        "val": false,
+        "oldVal": true
+      }
+    ]
+  },
+  {
+    ".grid_item .ti-control-shuffle": [
+      {
+        "op": "update",
+        "path": [0, "visibility"],
+        "val": false,
+        "oldVal": true
+      },
+      {
+        "op": "update",
+        "path": [1, "visibility"],
+        "val": false,
+        "oldVal": true
+      },
+      {
+        "op": "update",
+        "path": [2, "visibility"],
+        "val": false,
+        "oldVal": true
+      },
+      {
+        "op": "update",
+        "path": [3, "visibility"],
+        "val": false,
+        "oldVal": true
+      },
+      {
+        "op": "update",
+        "path": [4, "visibility"],
+        "val": false,
+        "oldVal": true
+      },
+      {
+        "op": "update",
+        "path": [5, "visibility"],
+        "val": false,
+        "oldVal": true
+      },
+      {
+        "op": "update",
+        "path": [6, "visibility"],
+        "val": false,
+        "oldVal": true
+      },
+      {
+        "op": "update",
+        "path": [7, "visibility"],
+        "val": false,
+        "oldVal": true
+      },
+      {
+        "op": "update",
+        "path": [8, "visibility"],
+        "val": false,
+        "oldVal": true
+      }
+    ]
+  },
+  {
+    ".grid_item .ti-heart": [
+      {
+        "op": "update",
+        "path": [0, "visibility"],
+        "val": false,
+        "oldVal": true
+      },
+      {
+        "op": "update",
+        "path": [1, "visibility"],
+        "val": false,
+        "oldVal": true
+      },
+      {
+        "op": "update",
+        "path": [2, "visibility"],
+        "val": false,
+        "oldVal": true
+      },
+      {
+        "op": "update",
+        "path": [3, "visibility"],
+        "val": false,
+        "oldVal": true
+      },
+      {
+        "op": "update",
+        "path": [4, "visibility"],
+        "val": false,
+        "oldVal": true
+      },
+      {
+        "op": "update",
+        "path": [5, "visibility"],
+        "val": false,
+        "oldVal": true
+      },
+      {
+        "op": "update",
+        "path": [6, "visibility"],
+        "val": false,
+        "oldVal": true
+      },
+      {
+        "op": "update",
+        "path": [7, "visibility"],
+        "val": false,
+        "oldVal": true
+      },
+      {
+        "op": "update",
+        "path": [8, "visibility"],
+        "val": false,
+        "oldVal": true
+      }
+    ]
+  }
+]

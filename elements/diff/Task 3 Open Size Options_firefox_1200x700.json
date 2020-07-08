@@ -1,0 +1,12 @@
+[
+  {
+    ".custom-select-form li": [
+      {
+        "op": "update",
+        "path": [0, "text"],
+        "val": "Not Small",
+        "oldVal": "Small (S)"
+      }
+    ]
+  }
+]

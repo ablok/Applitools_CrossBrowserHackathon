@@ -1,0 +1,86 @@
+[
+  {
+    ".custom-select-form li": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 400,
+          "y": 823.0999755859375
+        },
+        "size": {
+          "width": 352,
+          "height": 32
+        },
+        "css": {
+          "display": "list-item",
+          "backgroundColor": "rgba(0, 77, 218, 0.04)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        },
+        "text": "Not Small"
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 400,
+          "y": 855.0999755859375
+        },
+        "size": {
+          "width": 352,
+          "height": 32
+        },
+        "css": {
+          "display": "list-item",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        },
+        "text": "M"
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 400,
+          "y": 887.0999755859375
+        },
+        "size": {
+          "width": 352,
+          "height": 32
+        },
+        "css": {
+          "display": "list-item",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        },
+        "text": "L"
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 400,
+          "y": 919.0999755859376
+        },
+        "size": {
+          "width": 352,
+          "height": 32
+        },
+        "css": {
+          "display": "list-item",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        },
+        "text": "XL"
+      }
+    ]
+  }
+]

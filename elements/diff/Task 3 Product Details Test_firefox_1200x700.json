@@ -1,0 +1,60 @@
+[
+  {
+    "#shoe_img": [
+      {
+        "op": "update",
+        "path": [0, "css", "backgroundImage"],
+        "val": "none",
+        "oldVal": "url(\"https://demo.applitools.com/grid/img/products/shoes/1.jpg\")"
+      }
+    ]
+  },
+  {
+    ".prod_info p small": [
+      {
+        "op": "update",
+        "path": [0, "css", "textDecoration"],
+        "val": "rgb(255, 255, 255)",
+        "oldVal": "rgb(68, 68, 68)"
+      },
+      {
+        "op": "update",
+        "path": [0, "css", "color"],
+        "val": "rgb(255, 255, 255)",
+        "oldVal": "rgb(68, 68, 68)"
+      }
+    ]
+  },
+  {
+    ".custom-select-form li": [
+      {
+        "op": "update",
+        "path": [0, "text"],
+        "val": "Not Small",
+        "oldVal": "Small (S)"
+      }
+    ]
+  },
+  {
+    "#new_price": [
+      {
+        "op": "update",
+        "path": [0, "location", "x"],
+        "val": 795.566650390625,
+        "oldVal": 772.9000244140625
+      },
+      {
+        "op": "update",
+        "path": [0, "size", "width"],
+        "val": 27.300003051757812,
+        "oldVal": 49.9666748046875
+      },
+      {
+        "op": "update",
+        "path": [0, "text"],
+        "val": "$33",
+        "oldVal": "$33.00"
+      }
+    ]
+  }
+]

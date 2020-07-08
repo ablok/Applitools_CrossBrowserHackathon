@@ -1,0 +1,29 @@
+[
+  {
+    ".grid_item": [
+      {
+        "op": "add",
+        "path": [2],
+        "val": {
+          "visibility": true,
+          "location": {
+            "x": 513.6666870117188,
+            "y": 586.2999877929688
+          },
+          "size": {
+            "width": 239.3333282470703,
+            "height": 347.23333740234375
+          },
+          "css": {
+            "display": "block",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "backgroundImage": "none",
+            "textDecoration": "rgb(68, 68, 68)",
+            "color": "rgb(68, 68, 68)",
+            "font": ""
+          }
+        }
+      }
+    ]
+  }
+]

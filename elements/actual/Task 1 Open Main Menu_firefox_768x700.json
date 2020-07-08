@@ -1,0 +1,25 @@
+[
+  {
+    ".main-menu": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "width": 345.6000061035156,
+          "height": 626
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "backgroundImage": "none",
+          "textDecoration": "rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": ""
+        }
+      }
+    ]
+  }
+]

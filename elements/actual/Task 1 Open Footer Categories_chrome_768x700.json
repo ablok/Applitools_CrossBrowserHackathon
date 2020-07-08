@@ -1,0 +1,143 @@
+[
+  {
+    "//h3[text()='Contacts']": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 391.5,
+          "y": 1778.28125
+        },
+        "size": {
+          "width": 347,
+          "height": 16
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(255, 255, 255)",
+          "color": "rgb(255, 255, 255)",
+          "font": "500 14px / 16.8px Roboto, Arial, Helvetica, sans-serif"
+        },
+        "text": "Contacts"
+      }
+    ]
+  },
+  {
+    "#collapse_3": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 391.5,
+          "y": 1809.28125
+        },
+        "size": {
+          "width": 347,
+          "height": 78
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "14px / 21px Roboto, Arial, Helvetica, sans-serif"
+        }
+      }
+    ]
+  },
+  {
+    "//h3[text()='Keep in touch']": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 15,
+          "y": 1976.28125
+        },
+        "size": {
+          "width": 347,
+          "height": 16
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(255, 255, 255)",
+          "color": "rgb(255, 255, 255)",
+          "font": "500 14px / 16.8px Roboto, Arial, Helvetica, sans-serif"
+        },
+        "text": "Keep in touch"
+      }
+    ]
+  },
+  {
+    "#collapse_4": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 15,
+          "y": 2007.28125
+        },
+        "size": {
+          "width": 347,
+          "height": 40
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "14px / 21px Roboto, Arial, Helvetica, sans-serif"
+        }
+      }
+    ]
+  },
+  {
+    "//h3[text()='Quick Links']": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 15,
+          "y": 1778.28125
+        },
+        "size": {
+          "width": 347,
+          "height": 16
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(255, 255, 255)",
+          "color": "rgb(255, 255, 255)",
+          "font": "500 14px / 16.8px Roboto, Arial, Helvetica, sans-serif"
+        },
+        "text": "Quick Links"
+      }
+    ]
+  },
+  {
+    "#collapse_1": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 15,
+          "y": 1809.28125
+        },
+        "size": {
+          "width": 347,
+          "height": 142
+        },
+        "css": {
+          "display": "block",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "14px / 21px Roboto, Arial, Helvetica, sans-serif"
+        }
+      }
+    ]
+  }
+]

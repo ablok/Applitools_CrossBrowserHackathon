@@ -1,0 +1,424 @@
+[
+  {
+    ".custom-search-input": [
+      {
+        "op": "update",
+        "path": [0, "visibility"],
+        "val": true,
+        "oldVal": false
+      },
+      {
+        "op": "update",
+        "path": [0, "location", "x"],
+        "val": 15,
+        "oldVal": 0
+      },
+      {
+        "op": "update",
+        "path": [0, "location", "y"],
+        "val": 62.296875,
+        "oldVal": 0
+      },
+      {
+        "op": "update",
+        "path": [0, "size", "width"],
+        "val": 223,
+        "oldVal": 0
+      },
+      {
+        "op": "update",
+        "path": [0, "size", "height"],
+        "val": 28,
+        "oldVal": 0
+      }
+    ]
+  },
+  {
+    ".btn_search_mob": [
+      {
+        "op": "update",
+        "path": [0, "location", "x"],
+        "val": 247.5,
+        "oldVal": 15
+      }
+    ]
+  },
+  {
+    ".access_link": [
+      {
+        "op": "update",
+        "path": [0, "location", "x"],
+        "val": 352,
+        "oldVal": 398
+      }
+    ]
+  },
+  {
+    ".wishlist": [
+      {
+        "op": "update",
+        "path": [0, "visibility"],
+        "val": true,
+        "oldVal": false
+      },
+      {
+        "op": "update",
+        "path": [0, "location", "x"],
+        "val": 398,
+        "oldVal": 0
+      },
+      {
+        "op": "update",
+        "path": [0, "location", "y"],
+        "val": 62.296875,
+        "oldVal": 0
+      },
+      {
+        "op": "update",
+        "path": [0, "css", "display"],
+        "val": "block",
+        "oldVal": "none"
+      }
+    ]
+  },
+  {
+    ".cart_bt strong": [
+      {
+        "op": "update",
+        "path": [0, "visibility"],
+        "val": true,
+        "oldVal": false
+      },
+      {
+        "op": "update",
+        "path": [0, "location", "x"],
+        "val": 457,
+        "oldVal": 0
+      },
+      {
+        "op": "update",
+        "path": [0, "location", "y"],
+        "val": 77.296875,
+        "oldVal": 0
+      },
+      {
+        "op": "update",
+        "path": [0, "size", "width"],
+        "val": 16,
+        "oldVal": 0
+      },
+      {
+        "op": "update",
+        "path": [0, "size", "height"],
+        "val": 16,
+        "oldVal": 0
+      },
+      {
+        "op": "update",
+        "path": [0, "css", "display"],
+        "val": "block",
+        "oldVal": "none"
+      }
+    ]
+  },
+  {
+    "#ti-filter": [
+      {
+        "op": "update",
+        "path": [0, "location", "x"],
+        "val": 378.53125,
+        "oldVal": 414
+      }
+    ]
+  },
+  {
+    ".ti-view-grid": [
+      {
+        "op": "update",
+        "path": [0, "visibility"],
+        "val": true,
+        "oldVal": false
+      },
+      {
+        "op": "update",
+        "path": [0, "location", "x"],
+        "val": 414.53125,
+        "oldVal": 0
+      },
+      {
+        "op": "update",
+        "path": [0, "location", "y"],
+        "val": 371.296875,
+        "oldVal": 0
+      },
+      {
+        "op": "update",
+        "path": [0, "css", "display"],
+        "val": "inline",
+        "oldVal": "none"
+      }
+    ]
+  },
+  {
+    ".ti-view-list": [
+      {
+        "op": "update",
+        "path": [0, "visibility"],
+        "val": true,
+        "oldVal": false
+      },
+      {
+        "op": "update",
+        "path": [0, "location", "x"],
+        "val": 439,
+        "oldVal": 0
+      },
+      {
+        "op": "update",
+        "path": [0, "location", "y"],
+        "val": 371.296875,
+        "oldVal": 0
+      },
+      {
+        "op": "update",
+        "path": [0, "css", "display"],
+        "val": "inline",
+        "oldVal": "none"
+      }
+    ]
+  },
+  {
+    ".grid_item .ti-heart": [
+      {
+        "op": "update",
+        "path": [0, "visibility"],
+        "val": false,
+        "oldVal": true
+      },
+      {
+        "op": "update",
+        "path": [1, "visibility"],
+        "val": false,
+        "oldVal": true
+      },
+      {
+        "op": "update",
+        "path": [2, "visibility"],
+        "val": false,
+        "oldVal": true
+      },
+      {
+        "op": "update",
+        "path": [3, "visibility"],
+        "val": false,
+        "oldVal": true
+      },
+      {
+        "op": "update",
+        "path": [4, "visibility"],
+        "val": false,
+        "oldVal": true
+      },
+      {
+        "op": "update",
+        "path": [5, "visibility"],
+        "val": false,
+        "oldVal": true
+      },
+      {
+        "op": "update",
+        "path": [6, "visibility"],
+        "val": false,
+        "oldVal": true
+      },
+      {
+        "op": "update",
+        "path": [7, "visibility"],
+        "val": false,
+        "oldVal": true
+      },
+      {
+        "op": "update",
+        "path": [8, "visibility"],
+        "val": false,
+        "oldVal": true
+      }
+    ]
+  },
+  {
+    ".grid_item .ti-control-shuffle": [
+      {
+        "op": "update",
+        "path": [0, "visibility"],
+        "val": false,
+        "oldVal": true
+      },
+      {
+        "op": "update",
+        "path": [1, "visibility"],
+        "val": false,
+        "oldVal": true
+      },
+      {
+        "op": "update",
+        "path": [2, "visibility"],
+        "val": false,
+        "oldVal": true
+      },
+      {
+        "op": "update",
+        "path": [3, "visibility"],
+        "val": false,
+        "oldVal": true
+      },
+      {
+        "op": "update",
+        "path": [4, "visibility"],
+        "val": false,
+        "oldVal": true
+      },
+      {
+        "op": "update",
+        "path": [5, "visibility"],
+        "val": false,
+        "oldVal": true
+      },
+      {
+        "op": "update",
+        "path": [6, "visibility"],
+        "val": false,
+        "oldVal": true
+      },
+      {
+        "op": "update",
+        "path": [7, "visibility"],
+        "val": false,
+        "oldVal": true
+      },
+      {
+        "op": "update",
+        "path": [8, "visibility"],
+        "val": false,
+        "oldVal": true
+      }
+    ]
+  },
+  {
+    ".grid_item .ti-shopping-cart": [
+      {
+        "op": "update",
+        "path": [0, "visibility"],
+        "val": false,
+        "oldVal": true
+      },
+      {
+        "op": "update",
+        "path": [1, "visibility"],
+        "val": false,
+        "oldVal": true
+      },
+      {
+        "op": "update",
+        "path": [2, "visibility"],
+        "val": false,
+        "oldVal": true
+      },
+      {
+        "op": "update",
+        "path": [3, "visibility"],
+        "val": false,
+        "oldVal": true
+      },
+      {
+        "op": "update",
+        "path": [4, "visibility"],
+        "val": false,
+        "oldVal": true
+      },
+      {
+        "op": "update",
+        "path": [5, "visibility"],
+        "val": false,
+        "oldVal": true
+      },
+      {
+        "op": "update",
+        "path": [6, "visibility"],
+        "val": false,
+        "oldVal": true
+      },
+      {
+        "op": "update",
+        "path": [7, "visibility"],
+        "val": false,
+        "oldVal": true
+      },
+      {
+        "op": "update",
+        "path": [8, "visibility"],
+        "val": false,
+        "oldVal": true
+      }
+    ]
+  },
+  {
+    "#collapse_1": [
+      {
+        "op": "update",
+        "path": [0, "visibility"],
+        "val": true,
+        "oldVal": false
+      },
+      {
+        "op": "update",
+        "path": [0, "location", "x"],
+        "val": 15,
+        "oldVal": 0
+      },
+      {
+        "op": "update",
+        "path": [0, "location", "y"],
+        "val": 2292.796875,
+        "oldVal": 0
+      },
+      {
+        "op": "update",
+        "path": [0, "size", "width"],
+        "val": 455,
+        "oldVal": 92
+      },
+      {
+        "op": "update",
+        "path": [0, "size", "height"],
+        "val": 142,
+        "oldVal": 182
+      },
+      {
+        "op": "update",
+        "path": [0, "css", "display"],
+        "val": "block",
+        "oldVal": "none"
+      }
+    ]
+  },
+  {
+    "//h3[text()='Contacts']": [
+      {
+        "op": "update",
+        "path": [0, "location", "y"],
+        "val": 2459.796875,
+        "oldVal": 2277.796875
+      }
+    ]
+  },
+  {
+    "//h3[text()='Keep in touch']": [
+      {
+        "op": "update",
+        "path": [0, "location", "y"],
+        "val": 2505.796875,
+        "oldVal": 2323.796875
+      }
+    ]
+  }
+]

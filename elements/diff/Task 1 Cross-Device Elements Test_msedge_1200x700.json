@@ -1,0 +1,70 @@
+[
+  {
+    ".open_filters span": [
+      {
+        "op": "update",
+        "path": [0, "visibility"],
+        "val": true,
+        "oldVal": false
+      },
+      {
+        "op": "update",
+        "path": [0, "location", "x"],
+        "val": 1041.046875,
+        "oldVal": 0
+      },
+      {
+        "op": "update",
+        "path": [0, "location", "y"],
+        "val": 545,
+        "oldVal": 0
+      },
+      {
+        "op": "update",
+        "path": [0, "size", "width"],
+        "val": 38,
+        "oldVal": 0
+      },
+      {
+        "op": "update",
+        "path": [0, "size", "height"],
+        "val": 25,
+        "oldVal": 0
+      }
+    ]
+  },
+  {
+    "#ti-filter": [
+      {
+        "op": "update",
+        "path": [0, "visibility"],
+        "val": true,
+        "oldVal": false
+      },
+      {
+        "op": "update",
+        "path": [0, "location", "x"],
+        "val": 1020.046875,
+        "oldVal": 0
+      },
+      {
+        "op": "update",
+        "path": [0, "location", "y"],
+        "val": 550,
+        "oldVal": 0
+      },
+      {
+        "op": "update",
+        "path": [0, "size", "width"],
+        "val": 16,
+        "oldVal": 0
+      },
+      {
+        "op": "update",
+        "path": [0, "size", "height"],
+        "val": 16,
+        "oldVal": 0
+      }
+    ]
+  }
+]

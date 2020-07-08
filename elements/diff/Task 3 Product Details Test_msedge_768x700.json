@@ -1,0 +1,100 @@
+[
+  {
+    ".access_link": [
+      {
+        "op": "update",
+        "path": [0, "location", "x"],
+        "val": 680,
+        "oldVal": 620
+      }
+    ]
+  },
+  {
+    ".wishlist": [
+      {
+        "op": "update",
+        "path": [0, "location", "x"],
+        "val": 696,
+        "oldVal": 666
+      }
+    ]
+  },
+  {
+    "#shoe_img": [
+      {
+        "op": "update",
+        "path": [0, "css", "backgroundImage"],
+        "val": "-webkit-image-set(url(\"https://demo.applitools.com/grid/img/products/shoes/1.jpg\") 1x, url(\"https://demo.applitools.com/grid/img/products/shoes/1.jpg\") 2x)",
+        "oldVal": "url(\"https://demo.applitools.com/grid/img/products/shoes/1.jpg\")"
+      }
+    ]
+  },
+  {
+    ".prod_info em": [
+      {
+        "op": "update",
+        "path": [0, "location", "x"],
+        "val": 75,
+        "oldVal": 105
+      }
+    ]
+  },
+  {
+    ".prod_info p small": [
+      {
+        "op": "update",
+        "path": [0, "css", "textDecoration"],
+        "val": "none solid rgb(255, 255, 255)",
+        "oldVal": "none solid rgb(68, 68, 68)"
+      },
+      {
+        "op": "update",
+        "path": [0, "css", "color"],
+        "val": "rgb(255, 255, 255)",
+        "oldVal": "rgb(68, 68, 68)"
+      }
+    ]
+  },
+  {
+    ".custom-select-form li": [
+      {
+        "op": "update",
+        "path": [0, "text"],
+        "val": "Not Small",
+        "oldVal": "Small (S)"
+      }
+    ]
+  },
+  {
+    ".btn_add_to_cart a": [
+      {
+        "op": "update",
+        "path": [0, "location", "y"],
+        "val": 835.296875,
+        "oldVal": 885.296875
+      }
+    ]
+  },
+  {
+    "#new_price": [
+      {
+        "op": "update",
+        "path": [0, "location", "x"],
+        "val": 180.421875,
+        "oldVal": 157.765625
+      },
+      {
+        "op": "update",
+        "path": [0, "size", "width"],
+        "val": 28,
+        "oldVal": 50
+      },
+      {
+        "op": "update",
+        "path": [0, "text"],
+        "val": "$33",
+        "oldVal": "$33.00"
+      }
+    ]
+  }
+]

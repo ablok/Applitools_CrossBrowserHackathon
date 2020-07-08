@@ -1,0 +1,82 @@
+[
+  {
+    "//h3[text()='Contacts']": [
+      {
+        "op": "update",
+        "path": [0, "location", "y"],
+        "val": 2277.796875,
+        "oldVal": 2459.796875
+      }
+    ]
+  },
+  {
+    "#collapse_3": [
+      {
+        "op": "update",
+        "path": [0, "location", "y"],
+        "val": 2338.796875,
+        "oldVal": 2520.796875
+      }
+    ]
+  },
+  {
+    "//h3[text()='Keep in touch']": [
+      {
+        "op": "update",
+        "path": [0, "location", "y"],
+        "val": 2441.796875,
+        "oldVal": 2623.796875
+      }
+    ]
+  },
+  {
+    "#collapse_4": [
+      {
+        "op": "update",
+        "path": [0, "location", "y"],
+        "val": 2507.796875,
+        "oldVal": 2689.796875
+      }
+    ]
+  },
+  {
+    "#collapse_1": [
+      {
+        "op": "update",
+        "path": [0, "visibility"],
+        "val": false,
+        "oldVal": true
+      },
+      {
+        "op": "update",
+        "path": [0, "location", "x"],
+        "val": 0,
+        "oldVal": 15
+      },
+      {
+        "op": "update",
+        "path": [0, "location", "y"],
+        "val": 1787,
+        "oldVal": 2292.796875
+      },
+      {
+        "op": "update",
+        "path": [0, "size", "width"],
+        "val": 92,
+        "oldVal": 455
+      },
+      {
+        "op": "update",
+        "path": [0, "size", "height"],
+        "val": 182,
+        "oldVal": 142
+      },
+      {
+        "op": "update",
+        "path": [0, "css", "display"],
+        "val": "none",
+        "oldVal": "block"
+      }
+    ]
+  }
+]

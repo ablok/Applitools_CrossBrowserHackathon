@@ -1,0 +1,86 @@
+[
+  {
+    ".custom-select-form li": [
+      {
+        "visibility": true,
+        "location": {
+          "x": 392.5,
+          "y": 822.296875
+        },
+        "size": {
+          "width": 345,
+          "height": 32
+        },
+        "css": {
+          "display": "list-item",
+          "backgroundColor": "rgba(0, 77, 218, 0.04)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "500 14px / 32px Roboto, Arial, Helvetica, sans-serif"
+        },
+        "text": "Not Small"
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 392.5,
+          "y": 854.296875
+        },
+        "size": {
+          "width": 345,
+          "height": 32
+        },
+        "css": {
+          "display": "list-item",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "14px / 32px Roboto, Arial, Helvetica, sans-serif"
+        },
+        "text": "M"
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 392.5,
+          "y": 886.296875
+        },
+        "size": {
+          "width": 345,
+          "height": 32
+        },
+        "css": {
+          "display": "list-item",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "14px / 32px Roboto, Arial, Helvetica, sans-serif"
+        },
+        "text": "L"
+      },
+      {
+        "visibility": true,
+        "location": {
+          "x": 392.5,
+          "y": 918.296875
+        },
+        "size": {
+          "width": 345,
+          "height": 32
+        },
+        "css": {
+          "display": "list-item",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "none",
+          "textDecoration": "none solid rgb(68, 68, 68)",
+          "color": "rgb(68, 68, 68)",
+          "font": "14px / 32px Roboto, Arial, Helvetica, sans-serif"
+        },
+        "text": "XL"
+      }
+    ]
+  }
+]

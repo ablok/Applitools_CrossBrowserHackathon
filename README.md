@@ -1,3 +1,5 @@
+UPDATE: [3th place](https://applitools.com/2020-cross-browser-testing-hackathon-winners/)
+
 # Applitools Ultrafast Cross Browser Testing Hackathon
 
 This is [my](#Author) submission for the [Applitools Ultrafast Cross Browser Testing Hackathon](https://applitools.com/cross-browser-testing-hackathon-v20-1-instructions/).
